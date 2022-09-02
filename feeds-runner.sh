@@ -56,7 +56,7 @@ echo "#     FEED INSTALLED SUCCESSFULLY          #"
 echo "#                    BY ELIESAT                        #"
 echo "#########################################################"
 
-elif [ "$PYTHON" = "PY3" ]
+elif [ "$PYTHON" = "PY3" ]; then
 
 echo " under maintenance"
 fi
