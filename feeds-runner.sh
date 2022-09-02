@@ -55,11 +55,10 @@ echo "#########################################################"
 echo "#     FEED INSTALLED SUCCESSFULLY          #"
 echo "#                    BY ELIESAT                        #"
 echo "#########################################################"
-
-else
-
-echo " under maintenance
-"
 fi
 
+if [ "$PYTHON" = "PY3" ]
+
+echo " under maintenance"
+fi
 exit 0
