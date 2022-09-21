@@ -1,4 +1,4 @@
-Package: enigma2-plugin-settingseliesat-.hazemwahba.motor
+Package: enigma2-plugin-settings-.hazemwahba.motor
 Version: eliesat
 Depends: enigma2
 Section: base
