@@ -172,5 +172,5 @@ elif [ "$PYTHON_VERSION" == 3.10.6 ]; then
 else
     rm -rf ${TMPDIR}/"${PLUGINPY2:?}"
 fi
-sync
+
 exit 0
