@@ -1,11 +1,11 @@
-Package: enigma2-plugin-pro-pli-blackneon-xp-fhd
+Package: enigma2-plugin-skinspro-skinpli-blackneon-xp-fhd
 Version: py2
 Depends: enigma2
 Section: base
 Architecture: all
 MD5Sum: d55ba614c711239e6d19905c5d7b44a7
 Size: 3529578
-Filename: enigma2-plugin-pro-pli-blackneon-xp-fhd_py2_all.ipk
+Filename: enigma2-plugin-skins-pli-blackneon-xp-fhd_py2_all.ipk
 Description: uploaded by eliesat
 Maintainer: plugin-pro-blackneon-xp-fhd
 Priority: optional
@@ -13,5 +13,8 @@ Source: none
 Homepage: unknown
 OE: enigma2
 License: none
+
+
+
 
 
