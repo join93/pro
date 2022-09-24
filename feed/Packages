@@ -3,8 +3,8 @@ Version: py2
 Depends: enigma2
 Section: base
 Architecture: all
-MD5Sum: ded287bd19705c243c780221a1a5d84a
-Size: 3529608
+MD5Sum: d55ba614c711239e6d19905c5d7b44a7
+Size: 3529578
 Filename: enigma2-plugin-pro-pli-blackneon-xp-fhd_py2_all.ipk
 Description: uploaded by eliesat
 Maintainer: plugin-pro-blackneon-xp-fhd
