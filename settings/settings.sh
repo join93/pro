@@ -2,7 +2,7 @@
 #!/bin/sh
 #
 
-wget -O /var/volatile/tmp/settings.tar.gz "https://onedrive.live.com/download?cid=C83DE969086F8746&resid=C83DE969086F8746%211037&authkey=ADw467uLlTQB_Dc"
+wget -O /var/volatile/tmp/settings.tar.gz "https://onedrive.live.com/download?cid=C83DE969086F8746&resid=C83DE969086F8746%211039&authkey=AI_XihcGhLY4boU"
 
 exit 0
 
