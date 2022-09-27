@@ -2,7 +2,7 @@
 #!/bin/sh
 #
 
-wget -O /var/volatile/tmp/skins.tar.gz "https://onedrive.live.com/download?cid=C83DE969086F8746&resid=C83DE969086F8746%211038&authkey=AMtMBofcAw-cfOo"
+wget -O /var/volatile/tmp/skins.tar.gz "https://drive.google.com/uc?export=download&id=1S5FlXuYR4DV_EqQncckchbKMVg169z0r"
 
 cd /tmp
 set -e
