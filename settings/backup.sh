@@ -2,7 +2,7 @@
 #!/bin/sh
 #
 
-wget -O /var/volatile/tmp/settings.tar.gz "https://drive.google.com/uc?export=download&id=1Rol88kRjFtwMV5O8mApzsRUAE3ABV2Gu"
+wget -O /var/volatile/tmp/settings.tar.gz "https://drive.google.com/uc?export=download&id=1S4F5AtTWS95zjvLHhi8tBNEinPiPYaYu"
 
 exit 0
 
