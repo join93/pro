@@ -9,7 +9,7 @@ set -e
 echo
 tar -xzf skins.tar.gz -C /
 set +e
-rm -f skins-astra.tar.gz
+rm -f skins.tar.gz
 
 exit 0
 
