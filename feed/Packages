@@ -1,0 +1,17 @@
+Package: enigma2-plugin-weblinks-fullbackup
+Version: openpli
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 5c99b4709b5399370b14ef5708969ac1
+Size: 1012
+Filename: enigma2-plugin-weblinks-fullbackup_openpli_all.ipk
+Description: install full backup to your stb
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
