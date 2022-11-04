@@ -1,3 +1,20 @@
+Package: enigma2-plugin-weblinks-emu-oscam-gosatplus
+Version: 11715-emu-r798
+Depends: libcurl4
+Section: base
+Architecture: all
+MD5Sum: 413e5d61c91ef25c45c4b265cf995fbb
+Size: 4063456
+Filename: enigma2-plugin-weblinks-emu-oscam-gosatplus_11715-emu-r798_all.ipk
+Description: GosatPlus_OSCam to all images OE2.0 (Patched and Build by MOHAMED_OS)
+Maintainer: MOHAMED_OS (mohamed19eng@gmail.com)
+Priority: optional
+Source: https://github.com/MOHAMED19OS
+Homepage: 
+OE: enigma2
+License: open
+
+
 Package: enigma2-plugin-weblinks-fullbackup
 Version: openpli
 Depends: enigma2
