@@ -15,6 +15,23 @@ OE: enigma2
 License: open
 
 
+Package: enigma2-plugin-weblinks-emu-oscam
+Version: 11715-emu-r798
+Depends: libcurl4
+Section: base
+Architecture: all
+MD5Sum: 4e5b6a08ac0a79db5d8095a567d9a6a0
+Size: 4065616
+Filename: enigma2-plugin-weblinks-emu-oscam_11715-emu-r798_all.ipk
+Description: OSCam to all images OE2.0 OE2.5/2.6 (Patched and Build by MOHAMED_OS)
+Maintainer: MOHAMED_OS (mohamed19eng@gmail.com)
+Priority: optional
+Source: https://github.com/MOHAMED19OS
+Homepage: 
+OE: enigma2
+License: open
+
+
 Package: enigma2-plugin-weblinks-fullbackup
 Version: openpli
 Depends: enigma2
