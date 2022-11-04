@@ -1,3 +1,18 @@
+Package: enigma2-plugin-softcams-gosatplus-ncam
+Version: V13.4-r0
+Depends: libcurl4
+Section: misc
+Architecture: all
+MD5Sum: 833bc5a723cb1a2112fd707f12a78d40
+Size: 4174932
+Filename: enigma2-plugin-softcams-gosatplus-ncam_V13.4-r0_all.ipk
+Description: GosatPlus_NCam to all images OE2.0 (Build by MOHAMED_OS)
+Maintainer: MOHAMED_OS (mohamed19eng@gmail.com)
+Priority: optional
+Source: https://github.com/MOHAMED19OS
+License: open
+
+
 Package: enigma2-plugin-softcams-gosatplus-oscam
 Version: 11715-emu-r798
 Depends: libcurl4
@@ -7,6 +22,21 @@ MD5Sum: 809982371d2750c29fa2496199457162
 Size: 4064312
 Filename: enigma2-plugin-softcams-gosatplus-oscam_11715-emu-r798_all.ipk
 Description: GosatPlus_OSCam to all images OE2.0 (Patched and Build by MOHAMED_OS)
+Maintainer: MOHAMED_OS (mohamed19eng@gmail.com)
+Priority: optional
+Source: https://github.com/MOHAMED19OS
+License: open
+
+
+Package: enigma2-plugin-softcams-ncam
+Version: V13.4-r0
+Depends: libcurl4
+Section: misc
+Architecture: all
+MD5Sum: 9a9b5d1a8f1ff11bab652fef39483c98
+Size: 4177320
+Filename: enigma2-plugin-softcams-ncam_V13.4-r0_all.ipk
+Description: NCam to all images OE2.0 OE2.5/2.6 (Build by MOHAMED_OS)
 Maintainer: MOHAMED_OS (mohamed19eng@gmail.com)
 Priority: optional
 Source: https://github.com/MOHAMED19OS
@@ -28,6 +58,21 @@ Source: https://github.com/MOHAMED19OS
 License: open
 
 
+Package: enigma2-plugin-softcams-powercam-ncam
+Version: V13.4-r0
+Depends: libcurl4
+Section: misc
+Architecture: all
+MD5Sum: 004fbf77440b543a9d2d85f7ac4a4a88
+Size: 4188992
+Filename: enigma2-plugin-softcams-powercam-ncam_V13.4-r0_all.ipk
+Description: PowerCam_NCam to all images OE2.0 (Patched and Build by MOHAMED_OS)
+Maintainer: MOHAMED_OS (mohamed19eng@gmail.com)
+Priority: optional
+Source: https://github.com/MOHAMED19OS
+License: open
+
+
 Package: enigma2-plugin-softcams-powercam-oscam
 Version: 11715-emu-r798
 Depends: libcurl4
@@ -43,6 +88,21 @@ Source: https://github.com/MOHAMED19OS
 License: open
 
 
+Package: enigma2-plugin-softcams-revcam-ncam
+Version: V13.4-r0
+Depends: libcurl4
+Section: misc
+Architecture: all
+MD5Sum: 81917e10b5de5b019279a1a8d412e9c3
+Size: 4190870
+Filename: enigma2-plugin-softcams-revcam-ncam_V13.4-r0_all.ipk
+Description: RevCam_NCam to all images OE2.0 (Patched and Build by MOHAMED_OS)
+Maintainer: MOHAMED_OS (mohamed19eng@gmail.com)
+Priority: optional
+Source: https://github.com/MOHAMED19OS
+License: open
+
+
 Package: enigma2-plugin-softcams-revcam-oscam
 Version: 11715-emu-r798
 Depends: libcurl4
@@ -52,6 +112,21 @@ MD5Sum: 5354ddf8bcb46b6ec0609263d30ee37b
 Size: 4079820
 Filename: enigma2-plugin-softcams-revcam-oscam_11715-emu-r798_all.ipk
 Description: RevCam_OSCam to all images OE2.0 (Patched and Build by MOHAMED_OS)
+Maintainer: MOHAMED_OS (mohamed19eng@gmail.com)
+Priority: optional
+Source: https://github.com/MOHAMED19OS
+License: open
+
+
+Package: enigma2-plugin-softcams-supcam-ncam
+Version: V13.4-r0
+Depends: libcurl4
+Section: misc
+Architecture: all
+MD5Sum: 5eb2199b72f9bb06be276719e2b2c580
+Size: 4175504
+Filename: enigma2-plugin-softcams-supcam-ncam_V13.4-r0_all.ipk
+Description: Supcam_NCam to all images OE2.0 (Patched and Build by MOHAMED_OS)
 Maintainer: MOHAMED_OS (mohamed19eng@gmail.com)
 Priority: optional
 Source: https://github.com/MOHAMED19OS
