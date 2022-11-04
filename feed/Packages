@@ -1,3 +1,18 @@
+Package: enigma2-plugin-softcams-gosatplus-oscam
+Version: 11715-emu-r798
+Depends: libcurl4
+Section: misc
+Architecture: all
+MD5Sum: 809982371d2750c29fa2496199457162
+Size: 4064312
+Filename: enigma2-plugin-softcams-gosatplus-oscam_11715-emu-r798_all.ipk
+Description: GosatPlus_OSCam to all images OE2.0 (Patched and Build by MOHAMED_OS)
+Maintainer: MOHAMED_OS (mohamed19eng@gmail.com)
+Priority: optional
+Source: https://github.com/MOHAMED19OS
+License: open
+
+
 Package: enigma2-plugin-softcams-oscam
 Version: 11715-emu-r798
 Depends: libcurl4
