@@ -1,3 +1,31 @@
+Package: enigma2-plugin-extensions-ncamstatus
+Version: 3.0
+Section: extra
+Architecture: all
+MD5Sum: b3ddfd9446e4174af20436810fe85156
+Size: 84292
+Filename: enigma2-plugin-extensions-ncamstatus_3.0_all.ipk
+Description: NcamStatus Plugin by puhvogel modified by kitte888 for Python3 und 2
+Maintainer: pr2
+Priority: optional
+Source: *
+Homepage: *
+
+
+Package: enigma2-plugin-extensions-oscamstatus
+Version: 4.2
+Section: extra
+Architecture: all
+MD5Sum: 07787d4d928090093a37973857b31f87
+Size: 76280
+Filename: enigma2-plugin-extensions-oscamstatus_4.2_all.ipk
+Description: OscamStatus Plugin by puhvogel modified by kitte888 2022 for Python3 und 2 und Ncam
+Maintainer: pr2
+Priority: optional
+Source: *
+Homepage: *
+
+
 Package: enigma2-plugin-softcams-gosatplus-ncam
 Version: V13.4-r0
 Depends: libcurl4
