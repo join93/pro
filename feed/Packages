@@ -1,3 +1,18 @@
+Package: enigma2-plugin-extensions-freeserver
+Version: 8.1.5
+Section: base
+Architecture: all
+MD5Sum: 6ba68282457ed360417f98800024cbd0
+Size: 2565946
+Filename: enigma2-plugin-extensions-freeserver_8.1.5_all.ipk
+Description: Free Server Online Generator Ncam OScam adddon
+Maintainer: mino60
+Priority: optional
+Source: 
+Homepage: www.tunisia-sat.com
+OE: enigma2
+
+
 Package: enigma2-plugin-extensions-ncamstatus
 Version: 3.0
 Section: extra
