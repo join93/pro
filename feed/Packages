@@ -266,41 +266,7 @@ Section: weblinks
 Architecture: all
 MD5Sum: a261c8e12779e51f1f28438b5cdb56a3
 Size: 1098
-Filename: enigma2-plugin-weblinks-radio-logo1_eliesat_all - Copy.ipk
-Description: change your radio service background picture
-Maintainer: eliesat
-Priority: optional
-Source: none
-Homepage: unknown
-OE: enigma2
-License: none
-
-
-Package: enigma2-plugin-weblinks-radio-logo1
-Version: eliesat
-Depends: enigma2
-Section: weblinks
-Architecture: all
-MD5Sum: a261c8e12779e51f1f28438b5cdb56a3
-Size: 1098
 Filename: enigma2-plugin-weblinks-radio-logo1_eliesat_all.ipk
-Description: change your radio service background picture
-Maintainer: eliesat
-Priority: optional
-Source: none
-Homepage: unknown
-OE: enigma2
-License: none
-
-
-Package: enigma2-plugin-weblinks-radio-logo2
-Version: eliesat
-Depends: enigma2
-Section: weblinks
-Architecture: all
-MD5Sum: 41a765019bc5c16f01e6c9e53688d05e
-Size: 1096
-Filename: enigma2-plugin-weblinks-radio-logo2_eliesat_all - Copy.ipk
 Description: change your radio service background picture
 Maintainer: eliesat
 Priority: optional
@@ -334,41 +300,7 @@ Section: weblinks
 Architecture: all
 MD5Sum: d13b0e7b64fa1310bd28b405700652ac
 Size: 1096
-Filename: enigma2-plugin-weblinks-radio-logo3_eliesat_all - Copy.ipk
-Description: change your radio service background picture
-Maintainer: eliesat
-Priority: optional
-Source: none
-Homepage: unknown
-OE: enigma2
-License: none
-
-
-Package: enigma2-plugin-weblinks-radio-logo3
-Version: eliesat
-Depends: enigma2
-Section: weblinks
-Architecture: all
-MD5Sum: d13b0e7b64fa1310bd28b405700652ac
-Size: 1096
 Filename: enigma2-plugin-weblinks-radio-logo3_eliesat_all.ipk
-Description: change your radio service background picture
-Maintainer: eliesat
-Priority: optional
-Source: none
-Homepage: unknown
-OE: enigma2
-License: none
-
-
-Package: enigma2-plugin-weblinks-radio-logo4
-Version: eliesat
-Depends: enigma2
-Section: weblinks
-Architecture: all
-MD5Sum: bcb88cb6946224f27e3ec5f80bec399c
-Size: 1096
-Filename: enigma2-plugin-weblinks-radio-logo4_eliesat_all - Copy.ipk
 Description: change your radio service background picture
 Maintainer: eliesat
 Priority: optional
@@ -402,41 +334,7 @@ Section: weblinks
 Architecture: all
 MD5Sum: 7443019a6227fa866bbc0772a14fb6ae
 Size: 1094
-Filename: enigma2-plugin-weblinks-radio-logo5_eliesat_all - Copy.ipk
-Description: change your radio service background picture
-Maintainer: eliesat
-Priority: optional
-Source: none
-Homepage: unknown
-OE: enigma2
-License: none
-
-
-Package: enigma2-plugin-weblinks-radio-logo5
-Version: eliesat
-Depends: enigma2
-Section: weblinks
-Architecture: all
-MD5Sum: 7443019a6227fa866bbc0772a14fb6ae
-Size: 1094
 Filename: enigma2-plugin-weblinks-radio-logo5_eliesat_all.ipk
-Description: change your radio service background picture
-Maintainer: eliesat
-Priority: optional
-Source: none
-Homepage: unknown
-OE: enigma2
-License: none
-
-
-Package: enigma2-plugin-weblinks-radio-logo6
-Version: eliesat
-Depends: enigma2
-Section: weblinks
-Architecture: all
-MD5Sum: a956fbbf41aef6ed52c97aae655a052d
-Size: 1096
-Filename: enigma2-plugin-weblinks-radio-logo6_eliesat_all - Copy.ipk
 Description: change your radio service background picture
 Maintainer: eliesat
 Priority: optional
@@ -470,41 +368,7 @@ Section: weblinks
 Architecture: all
 MD5Sum: 017bee81cf7259fe86c875b455abd562
 Size: 1092
-Filename: enigma2-plugin-weblinks-radio-logo7_eliesat_all - Copy.ipk
-Description: change your radio service background picture
-Maintainer: eliesat
-Priority: optional
-Source: none
-Homepage: unknown
-OE: enigma2
-License: none
-
-
-Package: enigma2-plugin-weblinks-radio-logo7
-Version: eliesat
-Depends: enigma2
-Section: weblinks
-Architecture: all
-MD5Sum: 017bee81cf7259fe86c875b455abd562
-Size: 1092
 Filename: enigma2-plugin-weblinks-radio-logo7_eliesat_all.ipk
-Description: change your radio service background picture
-Maintainer: eliesat
-Priority: optional
-Source: none
-Homepage: unknown
-OE: enigma2
-License: none
-
-
-Package: enigma2-plugin-weblinks-radio-logo8
-Version: eliesat
-Depends: enigma2
-Section: weblinks
-Architecture: all
-MD5Sum: 8b45c7019621d8fbcce9fcfa2fe03b7a
-Size: 1094
-Filename: enigma2-plugin-weblinks-radio-logo8_eliesat_all - Copy.ipk
 Description: change your radio service background picture
 Maintainer: eliesat
 Priority: optional
