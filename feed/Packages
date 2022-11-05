@@ -41,6 +41,23 @@ Source: *
 Homepage: *
 
 
+Package: enigma2-plugin-settings-hazemwahba.motor
+Version: 05-11-2022
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 510b72da0925c164c3911b3cd945411c
+Size: 1270
+Filename: enigma2-plugin-settings-hazemwahba.motor_05-11-2022_all.ipk
+Description: HazemWahba E2 Settings File Motor 34.5w to 70.5e
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
 Package: enigma2-plugin-softcams-gosatplus-ncam
 Version: V13.4-r0
 Depends: libcurl4
