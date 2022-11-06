@@ -1,3 +1,34 @@
+Package: enigma2-plugin-extensions-ajpanel
+Version: v7.4.0
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: feabdc59627563f59956e7ee152fdaf5
+Size: 294546
+Filename: enigma2-plugin-extensions-ajpanel_v7.4.0_all.ipk
+Description: Enigma2 Tools
+Maintainer: AMA-Jamry
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-extensions-dreamsatpanel
+Version: 1.3
+Depends: 
+Section: extra
+Architecture: all
+MD5Sum: f4d86d853536fb8152779657ab326c89
+Size: 2104
+Filename: enigma2-plugin-extensions-dreamsatpanel_1.3_all.ipk
+Description: DreamSatPanel All You Need
+Maintainer: LINUXSAT
+Priority: optional
+Source: 
+
+
 Package: enigma2-plugin-extensions-freeserver
 Version: 8.1.5
 Section: base
