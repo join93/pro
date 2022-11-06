@@ -41,6 +41,20 @@ Source: *
 Homepage: *
 
 
+Package: enigma2-plugin-extensions-xstreamity-abstract-skin
+Version: 1
+Section: Skins
+Architecture: all
+MD5Sum: f5220c278330b51239326357a4f2fd16
+Size: 7068
+Filename: enigma2-plugin-extensions-xstreamity-abstract-skin_1_all.ipk
+Description: X-Streamity skin by oktus
+Maintainer: oktus
+Priority: optional
+Source: https://linuxsat-support.com
+Homepage: https://linuxsat-support.com
+
+
 Package: enigma2-plugin-extensions-xstreamity-qatar.2022-skin
 Version: 2
 Section: Skins
