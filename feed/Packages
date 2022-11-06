@@ -41,6 +41,33 @@ Source: *
 Homepage: *
 
 
+Package: enigma2-plugin-extensions-xstreamity-qatar.2022-skin
+Version: 2
+Section: Skins
+Architecture: all
+MD5Sum: 526400dd08a2dae95c0620fd1c9910c4
+Size: 1280122
+Filename: enigma2-plugin-extensions-xstreamity-qatar.2022-skin_all.ipk
+Description: X-Streamity skin by oktus
+Maintainer: oktus
+Priority: optional
+Source: https://linuxsat-support.com
+Homepage: https://linuxsat-support.com
+
+
+Package: enigma2-plugin-extensions-xstreamity
+Version: 3.79.20221103
+Section: misc
+Architecture: all
+MD5Sum: d1782b38afdbb0bb6f636b97f57e0db5
+Size: 2547222
+Filename: enigma2-plugin-extensions-xstreamity_3.79_all.ipk
+Description: IPTV Xtream Codes/XUI One playlists player by KiddaC
+Maintainer: kiddac
+Priority: optional
+Source: 
+
+
 Package: enigma2-plugin-settings-hazemwahba.motor
 Version: 05-11-2022
 Depends: enigma2
