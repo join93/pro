@@ -44,6 +44,20 @@ Homepage: www.tunisia-sat.com
 OE: enigma2
 
 
+Package: enigma2-plugin-extensions-levi45multicammanager
+Version: 9.6-r7
+Depends: enigma2
+Section: misc
+Architecture: all
+MD5Sum: 80e3d34aa3c51844402e002712e25c5f
+Size: 756878
+Filename: enigma2-plugin-extensions-levi45multicammanager_9.6-r7_all.ipk
+Description: Addon/Multicam Manager by Levi45
+Maintainer: levi45
+Priority: optional
+Source: satellite-forum.com
+
+
 Package: enigma2-plugin-extensions-ncamstatus
 Version: 3.0
 Section: extra
@@ -58,6 +72,57 @@ Source: *
 Homepage: *
 
 
+Package: enigma2-plugin-extensions-novacam-pr-suptv-python2
+Version: 5.5-r0
+Depends: python-requests, libusb-1.0-0
+Section: base
+Architecture: all
+MD5Sum: 13421b860e0ef655f56d9ccb9ff82a13
+Size: 447722
+Filename: enigma2-plugin-extensions-novacam-pr-suptv-python2_5.5-r0_all.ipk
+Description: NovaCAM-CS-SupTV... All in one
+Maintainer: Novaler
+Priority: optional
+Source: enigma2-plugin-extensions-novacam-cs-suptv-python2.bb
+Homepage: 
+OE: enigma2-plugin-extensions-novacam-cs-suptv-python2
+License: GPLv2+
+
+
+Package: enigma2-plugin-extensions-novacam-suptv-activator-python2
+Version: 2.2-r1
+Depends: python-requests, libusb-1.0-0
+Section: base
+Architecture: all
+MD5Sum: 7e6e260d4dfbbb642b26e502b3e55437
+Size: 458880
+Filename: enigma2-plugin-extensions-novacam-suptv-activator-python2_2.2-r1_all.ipk
+Description: NOVACAM - SUPTV Activator... All in one
+Maintainer: Novaler
+Priority: optional
+Source: enigma2-plugin-extensions-novacam-suptv-activator-python2.bb
+Homepage: 
+OE: enigma2-plugin-extensions-novacam-suptv-activator-python2
+License: GPLv2+
+
+
+Package: enigma2-plugin-extensions-novalertv
+Version: 6.0-r0
+Depends: ffmpeg, libc6 (>= 2.28), python-core, python-image, python-json, python-multiprocessing, python-requests
+Recommends: enigma2-plugin-systemplugins-serviceapp, exteplayer3, gstplayer, python-imaging
+Section: base
+Architecture: cortexa15hf-neon-vfpv4
+MD5Sum: 6182c244a06e1574070c41e0fe69373a
+Size: 1004712
+Filename: enigma2-plugin-extensions-novalertv_6.0-r0.ipk
+Description: NovalerTV... Watch LiveTV, Movies and Series
+Maintainer: Novaler
+Priority: optional
+Source: enigma2-plugin-extensions-novalertv.bb
+OE: enigma2-plugin-extensions-novalertv
+License: GPLv2+
+
+
 Package: enigma2-plugin-extensions-oscamstatus
 Version: 4.2
 Section: extra
@@ -70,6 +135,22 @@ Maintainer: pr2
 Priority: optional
 Source: *
 Homepage: *
+
+
+Package: enigma2-plugin-extensions-suptv-python2
+Version: 4.3.1-r0
+Section: extensions
+Architecture: all
+MD5Sum: 664b1ba8389fbf4cff200af4981c46f4
+Size: 381998
+Filename: enigma2-plugin-extensions-suptv-python2_4.3.1-r0.ipk
+Description: suptv
+Maintainer: Novaler
+Priority: optional
+Source: 
+Homepage: 
+OE: enigma2-plugin-extensions-suptv-python2
+License: GPLv2+
 
 
 Package: enigma2-plugin-extensions-xstreamity-abstract-skin
