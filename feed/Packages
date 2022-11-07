@@ -211,6 +211,21 @@ OE: enigma2
 License: none
 
 
+Package: enigma2-plugin-settings-ciefp-motor.68e.30w.vod
+Version: 1.0+git223+dc262ca_r0
+Section: base
+Architecture: all
+MD5Sum: b68ebaa4228b2afe96ca4bc9eae0d85c
+Size: 530676
+Filename: enigma2-plugin-settings-ciefp-motor.68e.30w.vod_1.0+git223+dc262ca_r0_all.ipk
+Description: ciefp enigma2 settings motor.68e.30w.vod
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+Priority: optional
+Source: https://github.com/ciefp/ciefpsettings-enigma2
+OE: enigma2-plugin-settings-ciefp-motor.68e.30w.vod
+License: Proprietary
+
+
 Package: enigma2-plugin-settings-hazemwahba.motor
 Version: 05-11-2022
 Depends: enigma2
@@ -226,6 +241,36 @@ Source: none
 Homepage: unknown
 OE: enigma2
 License: none
+
+
+Package: enigma2-plugin-settings-morpheus883-motor
+Version: 1.0+git306+93bb330_r0
+Section: base
+Architecture: all
+MD5Sum: b23d82e79151d5871d93b1d0db4ed95f
+Size: 400252
+Filename: enigma2-plugin-settings-morpheus883-motor_1.0+git306+93bb330_r0_all.ipk
+Description: morpheus883 enigma2 settings motor
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+Priority: optional
+Source: https://github.com/morpheus883/enigma2-settings
+OE: enigma2-plugin-settings-morpheus883-motor
+License: Proprietary
+
+
+Package: enigma2-plugin-settings-vhannibal.motor
+Version: 1.0+git6605+783e046_r0
+Section: base
+Architecture: all
+MD5Sum: 2593a7312a03290843853f897fff8435
+Size: 410974
+Filename: enigma2-plugin-settings-vhannibal.motor_1.0+git6605+783e046_r0_all.ipk
+Description: Vhannibal E2 Settings File motor
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+Priority: optional
+Source: https://github.com/oe-alliance/oe-alliance-settings
+OE: enigma2-plugin-settings-vhannibal.motor
+License: Proprietary
 
 
 Package: enigma2-plugin-softcams-gosatplus-ncam
