@@ -15,6 +15,20 @@ OE: enigma2
 License: none
 
 
+Package: enigma2-plugin-extensions-bissfeed-autokey
+Version: 20211116-V2.9-By-momi133-OE2
+Section: extra
+Architecture: all
+MD5Sum: a1ae901be07197a0150d8844a0d84219
+Size: 2804972
+Filename: enigma2-plugin-extensions-bissfeed-autokey_20211116-V2.9-By-momi133-OE2_all.ipk
+Description: Auto Update of Biss Key of Feeds
+Maintainer: momi133 <moom133@gmail.com>
+Priority: optional
+Source: unknown
+Homepage: unknowns
+
+
 Package: enigma2-plugin-extensions-dreamsatpanel
 Version: 1.3
 Depends: 
