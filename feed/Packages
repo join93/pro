@@ -100,6 +100,20 @@ Priority: optional
 Source: satellite-forum.com
 
 
+Package: enigma2-plugin-extensions-multiboot-flashonline
+Version: 6.6
+Section: enigma2
+Architecture: all
+MD5Sum: 89cf49c9a3fb88364aab9bcaf8b51dac
+Size: 309314
+Filename: enigma2-plugin-extensions-multiboot-flashonline_6.6_all.ipk
+Description: Multiboot FlashOnline by Madhouse
+Maintainer: madhouse
+Priority: optional
+Source: https://github.com/m4dhouse
+OE: Enigma2 Plugin
+
+
 Package: enigma2-plugin-extensions-ncamstatus
 Version: 3.0
 Section: extra
@@ -112,6 +126,23 @@ Maintainer: pr2
 Priority: optional
 Source: *
 Homepage: *
+
+
+Package: enigma2-plugin-extensions-neoboot
+Version: v9.58-r3-reboot
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 2bb29a1daaaa047e1af0ad05c154ad0a
+Size: 7924396
+Filename: enigma2-plugin-extensions-neoboot_v9.58-r3-reboot_all.ipk
+Description: NeoBoot
+Maintainer: NeoBoot
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
 
 
 Package: enigma2-plugin-extensions-novacam-pr-suptv-python2
@@ -163,6 +194,23 @@ Priority: optional
 Source: enigma2-plugin-extensions-novalertv.bb
 OE: enigma2-plugin-extensions-novalertv
 License: GPLv2+
+
+
+Package: enigma2-plugin-extensions-omb-enhanced
+Version: 1.3+e2turk-r42
+Depends: enigma2, kernel-module-nandsim, libc6 (>= 2.34), liblzo2-2 (>= 2.10), openmultiboot
+Section: base
+Architecture: all
+MD5Sum: 6c446f963ccec4959a1e082cfb6e6b0c
+Size: 1406664
+Filename: enigma2-plugin-extensions-omb-enhanced_1.3+e2turk-r42_all.ipk
+Description: openmultiboot enhanced version by e2TURK
+Maintainer: oe-alliance, e2TURK by thawtes
+Priority: optional
+Source: https://twitter.com/e2TURK
+Homepage: https://twitter.com/e2TURK
+OE: enigma2-plugin-extensions-omb-enhanced
+License: GPLv2
 
 
 Package: enigma2-plugin-extensions-oscamstatus
