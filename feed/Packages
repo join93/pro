@@ -43,6 +43,20 @@ Priority: optional
 Source: 
 
 
+Package: enigma2-plugin-extensions-feeds-finder
+Version: 20220111-V1.7-momi133-OE2
+Section: extra
+Architecture: all
+MD5Sum: f70950ab8b5960e07c9f8ce5b2713ded
+Size: 1222194
+Filename: enigma2-plugin-extensions-feeds-finder_20220111-V1.7-momi133-OE2_all.ipk
+Description: Find Sattelite Feeds and Scan them
+Maintainer: momi133 <moom133@gmail.com>
+Priority: optional
+Source: unknown
+Homepage: unknown
+
+
 Package: enigma2-plugin-extensions-freeserver
 Version: 8.1.5
 Section: base
