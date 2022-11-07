@@ -58,6 +58,20 @@ Homepage: www.tunisia-sat.com
 OE: enigma2
 
 
+Package: enigma2-plugin-extensions-keyadder
+Version: 5.9
+Section: extra
+Architecture: all
+MD5Sum: 61937f431d9baaf8b12289232d7aea78
+Size: 147372
+Filename: enigma2-plugin-extensions-keyadder_5.9_all.ipk
+Description: add bisskey to your softcam file
+Maintainer: raed
+Priority: optional
+Source: unknown
+Homepage: unknown
+
+
 Package: enigma2-plugin-extensions-levi45multicammanager
 Version: 9.6-r7
 Depends: enigma2
