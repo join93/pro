@@ -55,6 +55,21 @@ Priority: optional
 Source: 
 
 
+Package: enigma2-plugin-extensions-ecccam
+Version: 0.2-r0
+Section: base
+Architecture: all
+MD5Sum: a7184ca525118edef00edecfbb682ae4
+Size: 8936
+Filename: enigma2-plugin-extensions-easy-cccam-0.2-r0.ipk
+Description: easy edit CCcam.cfg plugin by 2boom
+Maintainer: 2boom
+Priority: optional
+Homepage: 4bob@ua.fm
+OE: enigma2-plugin-extensions-ecccam
+License: GPL
+
+
 Package: enigma2-plugin-extensions-feeds-finder
 Version: 20220111-V1.7-momi133-OE2
 Section: extra
@@ -82,6 +97,21 @@ Priority: optional
 Source: 
 Homepage: www.tunisia-sat.com
 OE: enigma2
+
+
+Package: enigma2-plugin-extensions-internet-speedtest
+Version: 1.7
+Section: enigma2
+Architecture: all
+MD5Sum: c3069be14b82b6c97e91b45a1c7f96ed
+Size: 716752
+Filename: enigma2-plugin-extensions-internet-speedtest_1.7_all.ipk
+Description: Speedtest for enigma2 by Madhouse
+Maintainer: madhouse
+Priority: optional
+Source: https://github.com/m4dhouse/Internet-Speedtest
+OE: Enigma2 Plugin
+License: open
 
 
 Package: enigma2-plugin-extensions-iptosat
@@ -124,6 +154,19 @@ Description: Addon/Multicam Manager by Levi45
 Maintainer: levi45
 Priority: optional
 Source: satellite-forum.com
+
+
+Package: enigma2-plugin-extensions-movieorganisor
+Version: 3.60
+Section: misc
+Architecture: all
+MD5Sum: 0654f7fdd17a53eb384cc493943b232d
+Size: 6190
+Filename: enigma2-plugin-extensions-movieorganisor_3.60_all.ipk
+Description: Organise your recordings into folders
+Maintainer: Grog68
+Priority: optional
+Source: http://h52tc.com
 
 
 Package: enigma2-plugin-extensions-multiboot-flashonline
@@ -281,6 +324,21 @@ Source:
 Homepage: 
 OE: enigma2-plugin-extensions-suptv-python2
 License: GPLv2+
+
+
+Package: enigma2-plugin-extensions-wireguard-vpn
+Version: 2.0
+Depends: 
+Section: enigma2
+Architecture: all
+MD5Sum: 649e8b5f5f00e84327392710a32682b8
+Size: 1116496
+Filename: enigma2-plugin-extensions-wireguard-vpn_2.0_all.ipk
+Description: Protect your device with Wireguard
+Maintainer: madhouse
+Priority: optional
+Source: https://github.com/m4dhouse
+OE: Enigma2 Plugin
 
 
 Package: enigma2-plugin-extensions-xstreamity-abstract-skin
@@ -492,6 +550,21 @@ Maintainer: linuxsat
 Priority: optional
 Homepage: www.tunisia-sat.com
 License: Proprietary
+
+
+Package: enigma2-plugin-softcams-oscam
+Version: 11.715-emu-r798
+Depends: libcurl4
+Section: misc
+Architecture: all
+MD5Sum: 4627c31c90c5c077f2bb7fa9af9329b5
+Size: 3010032
+Filename: enigma2-plugin-softcams-oscam_11.715-emu-r798_all.ipk
+Description: oscam to all images OE2.0 OE2.5/2.6 (Patched and Build by LINUXSAT25)
+Maintainer: LINUXSAT25 (vastsat@hotmail.fr)
+Priority: optional
+Source: linuxsat
+License: open
 
 
 Package: enigma2-plugin-softcams-oscam
