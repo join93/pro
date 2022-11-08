@@ -1,13 +1,13 @@
 Package: enigma2-plugin-extensions-ajpanel
-Version: lv
+Version: v7.4.0
 Depends: enigma2
-Section: extensions
+Section: base
 Architecture: all
-MD5Sum: c78180d4a78c31e1956055a33c4149f0
-Size: 856
-Filename: enigma2-plugin-extensions-ajpanel_lv_all.ipk
-Description: Enigma2 tools
-Maintainer: unknown
+MD5Sum: feabdc59627563f59956e7ee152fdaf5
+Size: 294546
+Filename: enigma2-plugin-extensions-ajpanel_v7.4.0_all.ipk
+Description: Enigma2 Tools
+Maintainer: AMA-Jamry
 Priority: optional
 Source: none
 Homepage: unknown
@@ -56,23 +56,6 @@ Maintainer: momi133 <moom133@gmail.com>
 Priority: optional
 Source: unknown
 Homepage: unknowns
-
-
-Package: enigma2-plugin-extensions-chocholousek
-Version: lv
-Depends: enigma2
-Section: extensions
-Architecture: all
-MD5Sum: d28cf7e4fd175100fc715ad2e2c40b53
-Size: 858
-Filename: enigma2-plugin-extensions-chocholousek_lv_all.ipk
-Description: Download and update chocholousek picons
-Maintainer: unknown
-Priority: optional
-Source: none
-Homepage: unknown
-OE: enigma2
-License: none
 
 
 Package: enigma2-plugin-extensions-dreamsatpanel
