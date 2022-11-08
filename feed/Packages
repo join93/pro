@@ -15,6 +15,18 @@ OE: enigma2
 License: none
 
 
+Package: enigma2-plugin-extensions-ansite
+Version: 1.5
+Section: external
+Architecture: all
+MD5Sum: ef53b6c6a5b453356cf1abfe4d2f1c42
+Size: 3073164
+Filename: enigma2-plugin-extensions-ansite_1.5_py2_all.ipk
+Description: ansite-by-aime-jeux
+Maintainer: AbouYacine
+Priority: optional
+
+
 Package: enigma2-plugin-extensions-bissfeed-autokey
 Version: 20211116-V2.9-By-momi133-OE2
 Section: extra
@@ -70,6 +82,20 @@ Priority: optional
 Source: 
 Homepage: www.tunisia-sat.com
 OE: enigma2
+
+
+Package: enigma2-plugin-extensions-iptosat
+Version: 1.8
+Depends: exteplayer3 , gstplayer
+Section: base
+Architecture: all
+MD5Sum: 425bfdd1daef7a70687df6824663c9b7
+Size: 13638
+Filename: enigma2-plugin-extensions-iptosat_1.8_all.ipk
+Description: enigma2 plugin OE2.0
+Maintainer: ziko-ZR1
+Priority: optional
+Source: https://github.com/ziko-ZR1/IPtoSAT
 
 
 Package: enigma2-plugin-extensions-keyadder
@@ -225,6 +251,20 @@ Maintainer: pr2
 Priority: optional
 Source: *
 Homepage: *
+
+
+Package: enigma2-plugin-extensions-quran-karim
+Version: 2.1
+Section: base
+Architecture: all
+MD5Sum: 2deb9afd8375bbbfc6d0e6cad5ca28f2
+Size: 4416118
+Filename: enigma2-plugin-extensions-quran-karim_2.1_all.ipk
+Description: plugin-quran-karim
+Maintainer: OE-Core
+Priority: optional
+Homepage: www.tunisia-sat.com
+OE: enigma2-plugins
 
 
 Package: enigma2-plugin-extensions-suptv-python2
