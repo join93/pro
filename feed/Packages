@@ -370,12 +370,12 @@ Homepage: https://linuxsat-support.com
 
 
 Package: enigma2-plugin-extensions-xstreamity
-Version: 3.79.20221103
+Version: 3.80.20221106
 Section: misc
 Architecture: all
-MD5Sum: d1782b38afdbb0bb6f636b97f57e0db5
-Size: 2547222
-Filename: enigma2-plugin-extensions-xstreamity_3.79_all.ipk
+MD5Sum: 2f23c176fd9830fd37472217b4ecb05f
+Size: 2547898
+Filename: enigma2-plugin-extensions-xstreamity_3.80_all.ipk
 Description: IPTV Xtream Codes/XUI One playlists player by KiddaC
 Maintainer: kiddac
 Priority: optional
@@ -390,22 +390,6 @@ Architecture: all
 MD5Sum: 7c48ee62e2e9f7943e07d6a414b7fcc1
 Size: 2764790
 Filename: enigma2-plugin-extensions-xtraevent_v4.2_all.ipk
-Description: extra materials for events...
-Maintainer: digiteng
-Priority: optional
-Source: https://github.com/digiteng/xtra
-Homepage: https://github.com/digiteng/xtra
-OE: all
-
-
-Package: enigma2-plugin-extensions-xtraevent
-Version: v5.2
-Depends: python-imaging, python-requests
-Section: extra
-Architecture: all
-MD5Sum: 88fe9465fa666b35aac64b869c104f7f
-Size: 2779324
-Filename: enigma2-plugin-extensions-xtraevent_v5.2_all.ipk
 Description: extra materials for events...
 Maintainer: digiteng
 Priority: optional
