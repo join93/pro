@@ -448,6 +448,20 @@ Source: https://github.com/MOHAMED19OS
 License: open
 
 
+Package: enigma2-plugin-softcams-oscamicam
+Version: 11.715
+Section: misc
+Architecture: all
+MD5Sum: d0f9cc00e3f50ca91c4550e3309ba9e1
+Size: 3028544
+Filename: enigma2-plugin-softcams-oscamicam_11.715_all.ipk
+Description: oscamicam to all images OE2.0 (Patched and Build by linuxsat)
+Maintainer: linuxsat
+Priority: optional
+Homepage: www.tunisia-sat.com
+License: Proprietary
+
+
 Package: enigma2-plugin-softcams-oscam
 Version: 11715-emu-r798
 Depends: libcurl4
