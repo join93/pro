@@ -324,6 +324,38 @@ Priority: optional
 Source: 
 
 
+Package: enigma2-plugin-extensions-xtraevent
+Version: v4.2
+Depends: python-imaging, python-requests
+Section: extra
+Architecture: all
+MD5Sum: 7c48ee62e2e9f7943e07d6a414b7fcc1
+Size: 2764790
+Filename: enigma2-plugin-extensions-xtraevent_v4.2_all.ipk
+Description: extra materials for events...
+Maintainer: digiteng
+Priority: optional
+Source: https://github.com/digiteng/xtra
+Homepage: https://github.com/digiteng/xtra
+OE: all
+
+
+Package: enigma2-plugin-extensions-xtraevent
+Version: v5.2
+Depends: python-imaging, python-requests
+Section: extra
+Architecture: all
+MD5Sum: 88fe9465fa666b35aac64b869c104f7f
+Size: 2779324
+Filename: enigma2-plugin-extensions-xtraevent_v5.2_all.ipk
+Description: extra materials for events...
+Maintainer: digiteng
+Priority: optional
+Source: https://github.com/digiteng/xtra
+Homepage: https://github.com/digiteng/xtra
+OE: all
+
+
 Package: enigma2-plugin-picons-transparent220x132
 Version: 2022-10-27
 Depends: enigma2
