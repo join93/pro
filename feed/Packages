@@ -63,8 +63,8 @@ Version: lv
 Depends: enigma2
 Section: extensions
 Architecture: all
-MD5Sum: b6b77b9d71a8107f1600964a1af1a0d2
-Size: 878
+MD5Sum: d28cf7e4fd175100fc715ad2e2c40b53
+Size: 858
 Filename: enigma2-plugin-extensions-chocholousek_lv_all.ipk
 Description: Download and update chocholousek picons
 Maintainer: unknown
