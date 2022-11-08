@@ -1,13 +1,13 @@
 Package: enigma2-plugin-extensions-ajpanel
-Version: v7.4.0
+Version: lv
 Depends: enigma2
-Section: base
+Section: extensions
 Architecture: all
-MD5Sum: feabdc59627563f59956e7ee152fdaf5
-Size: 294546
-Filename: enigma2-plugin-extensions-ajpanel_v7.4.0_all.ipk
-Description: Enigma2 Tools
-Maintainer: AMA-Jamry
+MD5Sum: c78180d4a78c31e1956055a33c4149f0
+Size: 856
+Filename: enigma2-plugin-extensions-ajpanel_lv_all.ipk
+Description: Enigma2 tools
+Maintainer: unknown
 Priority: optional
 Source: none
 Homepage: unknown
@@ -27,6 +27,23 @@ Maintainer: AbouYacine
 Priority: optional
 
 
+Package: enigma2-plugin-extensions-arabicsavior
+Version: lv
+Depends: enigma2
+Section: extensions
+Architecture: all
+MD5Sum: 34654fc970dbd4bab254df14794bf010
+Size: 870
+Filename: enigma2-plugin-extensions-arabicsavior_lv_all.ipk
+Description: fixing ararbic language
+Maintainer: unknown
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
 Package: enigma2-plugin-extensions-bissfeed-autokey
 Version: 20211116-V2.9-By-momi133-OE2
 Section: extra
@@ -39,6 +56,23 @@ Maintainer: momi133 <moom133@gmail.com>
 Priority: optional
 Source: unknown
 Homepage: unknowns
+
+
+Package: enigma2-plugin-extensions-chocholousek
+Version: lv
+Depends: enigma2
+Section: extensions
+Architecture: all
+MD5Sum: b6b77b9d71a8107f1600964a1af1a0d2
+Size: 878
+Filename: enigma2-plugin-extensions-chocholousek_lv_all.ipk
+Description: Download and update chocholousek picons
+Maintainer: unknown
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
 
 
 Package: enigma2-plugin-extensions-dreamsatpanel
