@@ -58,6 +58,22 @@ Source: unknown
 Homepage: unknowns
 
 
+Package: enigma2-plugin-extensions-crondmanager
+Version: 20181209-r1.3
+Depends: 
+Section: extra
+Architecture: all
+MD5Sum: 6a8cbcc22af7e2a0ec9c6fdc2df192a8
+Size: 904578
+Filename: enigma2-plugin-extensions-crondmanager_20181209-r1.3_all.ipk
+Description: Crondmanager Plugin for dreambox
+Maintainer: mfaraj57<mfaraj57@gmail.com>
+Priority: optional
+Source: http:/mfaraj.net
+Homepage: http:/mfaraj.net
+OE: enigma2
+
+
 Package: enigma2-plugin-extensions-dreamsatpanel
 Version: 1.3
 Depends: 
@@ -114,6 +130,23 @@ Priority: optional
 Source: 
 Homepage: www.tunisia-sat.com
 OE: enigma2
+
+
+Package: enigma2-plugin-extensions-imagedownloader
+Version: v2.6
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 61b538e210f60e9ca3f89c1ceb715981
+Size: 493938
+Filename: enigma2-plugin-extensions-imagedownloader_v2.6_all.ipk
+Description: ImageDownloader
+Maintainer: ImageDownloader
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
 
 
 Package: enigma2-plugin-extensions-internet-speedtest
@@ -325,6 +358,22 @@ Maintainer: OE-Core
 Priority: optional
 Homepage: www.tunisia-sat.com
 OE: enigma2-plugins
+
+
+Package: enigma2-plugin-extensions-scriptexecutor
+Version: 1.0
+Section: base
+Architecture: all
+MD5Sum: f2903840a5dd87308b91a1f1a6926960
+Size: 7676
+Filename: enigma2-plugin-extensions-scriptexecutor_1.0_all.ipk
+Description: ScriptExecutor, execute bash scripts from plugin menu
+Maintainer: adriankoooo <adriankoooo@mihalko.ml>
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: OPEN
 
 
 Package: enigma2-plugin-extensions-suptv-python2
