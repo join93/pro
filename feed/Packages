@@ -103,6 +103,22 @@ OE: enigma2-plugin-extensions-ecccam
 License: GPL
 
 
+Package: enigma2-plugin-extensions-enhancedmoviecenter
+Version: 5.0+git1585+20210126
+Section: extra
+Architecture: all
+MD5Sum: b23f9cb9872506be41cdca787b0944cc
+Size: 1049580
+Filename: enigma2-plugin-extensions-enhancedmoviecenter-5-0git20210126-all.ipk
+Description: EMC is an enhanced movielist replacement for Linux based receivers
+Maintainer: betonme, Swiss-MAD, Dorik1972
+Priority: optional
+Source: http://github.com/betonme/e2openplugin-EnhancedMovieCenter.git
+Homepage: https://github.com/betonme/e2openplugin-EnhancedMovieCenter/
+OE: enigma2-plugin-extensions-enhancedmoviecenter
+License: open
+
+
 Package: enigma2-plugin-extensions-feeds-finder
 Version: 20220111-V1.7-momi133-OE2
 Section: extra
@@ -115,6 +131,33 @@ Maintainer: momi133 <moom133@gmail.com>
 Priority: optional
 Source: unknown
 Homepage: unknown
+
+
+Package: enigma2-plugin-extensions-footonsat
+Version: 1.6
+Section: base
+Architecture: all
+MD5Sum: 04c90eaa3e86d8f06ad5def4a950e2d0
+Size: 4620674
+Filename: enigma2-plugin-extensions-footonsat_1.6.ipk
+Description: enigma2 plugin OE2.0 OE2.5
+Maintainer: ziko & redouane
+Priority: optional
+Source: https://github.com/ziko-ZR1/FootOnsat
+
+
+Package: enigma2-plugin-extensions-freearhey
+Version: 2.7
+Section: misc
+Architecture: all
+MD5Sum: e9229c70d072ff8b94dd550f24dc4c3b
+Size: 777206
+Filename: enigma2-plugin-extensions-freearhey_2.7_all.ipk
+Description: freearhey free link stream (no pay)
+Maintainer: Lululla
+Priority: optional
+Source: 
+Homepage: 
 
 
 Package: enigma2-plugin-extensions-freeserver
@@ -130,6 +173,22 @@ Priority: optional
 Source: 
 Homepage: www.tunisia-sat.com
 OE: enigma2
+
+
+Package: enigma2-plugin-extensions-hasbahca
+Version: 1.5
+Section: base
+Architecture: all
+MD5Sum: 9fcdabe6b36f60ffbff831b534dff57b
+Size: 769118
+Filename: enigma2-plugin-extensions-hasbahca_1.5_all.ipk
+Description: HasBahCa by Lululla
+Maintainer: lululla
+Priority: optional
+Source: /
+Homepage: linuxsat-support forum
+OE: 2.0 - 2.2 - 2.5 -2.6
+License: *
 
 
 Package: enigma2-plugin-extensions-imagedownloader
@@ -204,6 +263,21 @@ Description: Addon/Multicam Manager by Levi45
 Maintainer: levi45
 Priority: optional
 Source: satellite-forum.com
+
+
+Package: enigma2-plugin-extensions-m2b
+Version: 2.7
+Section: base
+Architecture: all
+MD5Sum: d51344daa725cc9d34b348ee46561eb0
+Size: 35854
+Filename: enigma2-plugin-extensions-m2b_2.7_all.ipk
+Description: 2boom's bouquet converter
+Maintainer: kitte888-2boom
+Priority: optional
+Source: 
+Homepage: 
+OE: enigma2-plugin-extensions-m2b
 
 
 Package: enigma2-plugin-extensions-movieorganisor
@@ -346,6 +420,36 @@ Source: *
 Homepage: *
 
 
+Package: enigma2-plugin-extensions-plugin-skin-mover
+Version: 0.6
+Section: skins
+Architecture: all
+MD5Sum: 110d707a7b80629fac44d51ab2092971
+Size: 32174
+Filename: enigma2-plugin-extensions-plugin-skin-mover_0.6_all.ipk
+Description: PluginSkinMover By linuxsat PY2 AND PY3
+Maintainer: LINUXSAT
+Priority: optional
+Source: http://tunisia-sat.com
+OE: enigma2-skins
+
+
+Package: enigma2-plugin-extensions-plutotv
+Version: 20221003
+Recommends: enigma2-plugin-systemplugins-serviceapp
+Section: extensions
+Architecture: all
+MD5Sum: 8417a88ad183cb7ac09c78fab562e2b8
+Size: 503578
+Filename: enigma2-plugin-extensions-plutotv_20221003_all.ipk
+Description: pluto.tv for VTI
+Maintainer: Billy2011
+Priority: optional
+Source: 
+Homepage: 
+License: GPLv2+
+
+
 Package: enigma2-plugin-extensions-quran-karim
 Version: 2.1
 Section: base
@@ -390,6 +494,21 @@ Source:
 Homepage: 
 OE: enigma2-plugin-extensions-suptv-python2
 License: GPLv2+
+
+
+Package: enigma2-plugin-extensions-tmdb
+Version: 0.9-r7
+Depends: python-json, python-requests, python-imaging
+Section: extra
+Architecture: all
+MD5Sum: da59290cbda52d8db2ec434340e52a1c
+Size: 154623
+Filename: enigma2-plugin-extensions-tmdb_0.9-r7_all.ipk
+Description: Show movie details from TMDb
+Maintainer: schomi
+Priority: optional
+Source: http://www.vuplus-support.org
+Homepage: http://www.vuplus-support.org
 
 
 Package: enigma2-plugin-extensions-wireguard-vpn
@@ -464,6 +583,38 @@ Homepage: https://github.com/digiteng/xtra
 OE: all
 
 
+Package: enigma2-plugin-extensions-youtube
+Version: h1+git1031+345bd57-r0.0
+Depends: python-codecs, python-core, python-json, python-netclient
+Section: multimedia
+Architecture: all
+MD5Sum: 407f6818237fe203e437d71aa12e69a2
+Size: 154524
+Filename: enigma2-plugin-extensions-youtube_h1+git1031+345bd57-r0.0_all.ipk
+Description: Enigma2 plugin to manage your youtube account and watch videos
+Maintainer: Taapat <taapat@gmail.com>
+Priority: optional
+Homepage: https://github.com/Taapat/enigma2-plugin-youtube
+OE: enigma2-plugin-extensions-youtube
+License: PD
+
+
+Package: cfg
+Version: Zoom_Final_FIX7x
+Section: 1
+Architecture: all
+MD5Sum: edbeb0eaa14bd00f7f8f5207a69602a4
+Size: 620252
+Filename: enigma2-plugin-extentions-cfg-zoom-final_all.ipk
+Description: 1
+Maintainer: 1
+Priority: standard
+Source: 1
+Homepage: 1
+OE: 1
+License: 1
+
+
 Package: enigma2-plugin-picons-transparent220x132
 Version: 2022-10-27
 Depends: enigma2
@@ -526,6 +677,40 @@ Priority: optional
 Source: https://github.com/morpheus883/enigma2-settings
 OE: enigma2-plugin-settings-morpheus883-motor
 License: Proprietary
+
+
+Package: enigma2-plugin-settings-satellites.xml
+Version: 1
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: bcb534e7069476a533889310389e6ae4
+Size: 35952
+Filename: enigma2-plugin-settings-satellites.xml_1_all.ipk
+Description: satellites frequencies file
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-settings-satellites.xml
+Version: 2
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 4d38a6203f1572b90198c7afc8c478b7
+Size: 36232
+Filename: enigma2-plugin-settings-satellites.xml_2_all.ipk
+Description: satellites frequencies file with lebanese terrestrial broadcast system
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
 
 
 Package: enigma2-plugin-settings-vhannibal.motor
