@@ -58,6 +58,23 @@ Source: unknown
 Homepage: unknowns
 
 
+Package: enigma2-plugin-extensions-cccam-server-downloader
+Version: zoom-final-fix7x
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 9e27f2131863173154464c821cac29ab
+Size: 620272
+Filename: enigma2-plugin-extensions-cccam-server-downloader_zoom-final-fix7x_all.ipk
+Description: Free servers pro CCcam
+Maintainer: vytvořil
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
 Package: enigma2-plugin-extensions-crondmanager
 Version: 20181209-r1.3
 Depends: 
@@ -582,22 +599,6 @@ Priority: optional
 Homepage: https://github.com/Taapat/enigma2-plugin-youtube
 OE: enigma2-plugin-extensions-youtube
 License: PD
-
-
-Package: cfg
-Version: Zoom_Final_FIX7x
-Section: 1
-Architecture: all
-MD5Sum: edbeb0eaa14bd00f7f8f5207a69602a4
-Size: 620252
-Filename: enigma2-plugin-extentions-cfg-zoom-final_all.ipk
-Description: 1
-Maintainer: 1
-Priority: standard
-Source: 1
-Homepage: 1
-OE: 1
-License: 1
 
 
 Package: enigma2-plugin-picons-transparent220x132
