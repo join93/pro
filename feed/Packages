@@ -282,6 +282,19 @@ Priority: optional
 Source: https://github.com/ziko-ZR1/IPtoSAT
 
 
+Package: enigma2-plugin-extensions-jedimakerxtream
+Version: 6.20.20210928
+Section: misc
+Architecture: all
+MD5Sum: a088bc5efa1e1ea807673d6e0eba71ed
+Size: 1810852
+Filename: enigma2-plugin-extensions-jedimakerxtream_6.20_all.ipk
+Description: Jedi Maker Xtream
+Maintainer: kiddac
+Priority: optional
+Source: 
+
+
 Package: enigma2-plugin-extensions-keyadder
 Version: 5.9
 Section: extra
