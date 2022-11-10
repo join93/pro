@@ -254,6 +254,20 @@ OE: Enigma2 Plugin
 License: open
 
 
+Package: enigma2-plugin-extensions-ipchecker
+Version: 004
+Section: Extensions
+Architecture: all
+MD5Sum: a31cbb234b395ba355bc25de35a4d903
+Size: 5082
+Filename: enigma2-plugin-extensions-ipchecker_004_all.ipk
+Description: plugin to check your boxes external IP adress
+Maintainer: dsayers
+Priority: optional
+Source: 
+Homepage: 
+
+
 Package: enigma2-plugin-extensions-iptosat
 Version: 1.8
 Depends: exteplayer3 , gstplayer
