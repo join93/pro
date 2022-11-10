@@ -208,6 +208,20 @@ OE: 2.0 - 2.2 - 2.5 -2.6
 License: *
 
 
+Package: enigma2-plugin-extensions-icamsettings
+Version: 1.2
+Section: settings
+Architecture: all
+MD5Sum: 439c5ac7aa54e68c65781050536f3da2
+Size: 3770
+Filename: enigma2-plugin-extensions-icamsettings_1.2_all.ipk
+Description: Settings Pyur
+Maintainer: none anymore
+Priority: optional
+Source: 
+Homepage: 
+
+
 Package: enigma2-plugin-extensions-imagedownloader
 Version: v2.6
 Depends: enigma2
@@ -423,6 +437,21 @@ OE: enigma2-plugin-extensions-omb-enhanced
 License: GPLv2
 
 
+Package: enigma2-plugin-extensions-opkg-tools
+Version: 1.2
+Section: extra
+Architecture: cortexa15hf-neon-vfpv4
+MD5Sum: 35c221dab5822c309c53541d8f5a7939
+Size: 1963236
+Filename: enigma2-plugin-extensions-opkg-tools_1.2.ipk
+Description: OPKG Pack / Unpack Tools
+Maintainer: original Hendrik Leesch <hendrik@leesch.de>
+Priority: optional
+Source: 
+Homepage: 
+OE: ipkg-tools-1.2
+
+
 Package: enigma2-plugin-extensions-oscamstatus
 Version: 4.2
 Section: extra
@@ -497,6 +526,18 @@ OE: enigma2
 License: OPEN
 
 
+Package: enigma2-plugin-extensions-spinnerselector
+Version: 2.3
+Section: misc
+Architecture: all
+MD5Sum: 0eca9f768bb89e89a62e17cf2ca492cb
+Size: 9719172
+Filename: enigma2-plugin-extensions-spinnerselector_2.3_all.ipk
+Description: 
+Maintainer: 
+Priority: optional
+
+
 Package: enigma2-plugin-extensions-suptv-python2
 Version: 4.3.1-r0
 Section: extensions
@@ -526,6 +567,21 @@ Maintainer: madhouse
 Priority: optional
 Source: https://github.com/m4dhouse
 OE: Enigma2 Plugin
+
+
+Package: enigma2-plugin-extensions-xcplugin-forever
+Version: 2.2
+Section: extra
+Architecture: all
+MD5Sum: f6f01c8b6960db11dffbaac5cf68a958
+Size: 1018470
+Filename: enigma2-plugin-extensions-xcplugin-forever_2.2_all.ipk
+Description: plugin, for the free streaming.
+Maintainer: Lululla <ekekaz@gmail.com>
+Priority: optional
+Source: none
+Homepage: *
+OE: OE2.0
 
 
 Package: enigma2-plugin-extensions-xstreamity-abstract-skin
@@ -857,6 +913,19 @@ Maintainer: MOHAMED_OS (mohamed19eng@gmail.com)
 Priority: optional
 Source: https://github.com/MOHAMED19OS
 License: open
+
+
+Package: enigma2-plugin-systemplugins-servicescanupdates
+Version: 1.1
+Depends: enigma2
+Section: misc
+Architecture: all
+MD5Sum: 43a11ee92d18c9d82a7a27305ddbf8a1
+Size: 7562
+Filename: enigma2-plugin-systemplugins-service-scan-updates_1.1_all.ipk
+Description: Create bouquets with new services after service scan
+Maintainer: MacDisein
+Priority: optional
 
 
 Package: enigma2-plugin-weblinks-fullbackup
