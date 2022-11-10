@@ -105,6 +105,20 @@ Priority: optional
 Source: 
 
 
+Package: enigma2-plugin-extensions-e2iplayer
+Version: lv
+Section: extra
+Architecture: all
+MD5Sum: 51a62ff8c4dacc710e7db4935d02e218
+Size: 816
+Filename: enigma2-plugin-extensions-e2iplayer_lv_all.ipk
+Description: e2iplayer
+Maintainer: unlnown
+Priority: optional
+Source: unknown
+Homepage: unknowns
+
+
 Package: enigma2-plugin-extensions-ecccam
 Version: 0.2-r0
 Section: base
@@ -134,6 +148,20 @@ Source: http://github.com/betonme/e2openplugin-EnhancedMovieCenter.git
 Homepage: https://github.com/betonme/e2openplugin-EnhancedMovieCenter/
 OE: enigma2-plugin-extensions-enhancedmoviecenter
 License: open
+
+
+Package: enigma2-plugin-extensions-epggrabber
+Version: lv
+Section: extra
+Architecture: all
+MD5Sum: ac9c87ca2c4fcf98f4cd0bd4ed873cf7
+Size: 806
+Filename: enigma2-plugin-extensions-epggrabber_lv_all.ipk
+Description: egg grabber
+Maintainer: ziko
+Priority: optional
+Source: unknown
+Homepage: unknowns
 
 
 Package: enigma2-plugin-extensions-feeds-finder
@@ -254,6 +282,20 @@ OE: Enigma2 Plugin
 License: open
 
 
+Package: enigma2-plugin-extensions-ipaudio
+Version: lv
+Section: extra
+Architecture: all
+MD5Sum: 979c1fe8911e80b966c93fdc593aed43
+Size: 802
+Filename: enigma2-plugin-extensions-ipaudio_lv_all.ipk
+Description: ipaudio
+Maintainer: unlnown
+Priority: optional
+Source: unknown
+Homepage: unknowns
+
+
 Package: enigma2-plugin-extensions-ipchecker
 Version: 004
 Section: Extensions
@@ -349,6 +391,20 @@ Description: Organise your recordings into folders
 Maintainer: Grog68
 Priority: optional
 Source: http://h52tc.com
+
+
+Package: enigma2-plugin-extensions-multi-stalker
+Version: lv
+Section: extra
+Architecture: all
+MD5Sum: 91c71dee5355e2c66ad1539b303ba1f9
+Size: 808
+Filename: enigma2-plugin-extensions-multi-stalker_lv_all.ipk
+Description: multi-stalker
+Maintainer: unlnown
+Priority: optional
+Source: unknown
+Homepage: unknowns
 
 
 Package: enigma2-plugin-extensions-multiboot-flashonline
@@ -535,6 +591,20 @@ Maintainer: OE-Core
 Priority: optional
 Homepage: www.tunisia-sat.com
 OE: enigma2-plugins
+
+
+Package: enigma2-plugin-extensions-raedquicksignal
+Version: lv
+Section: extra
+Architecture: all
+MD5Sum: c800653df7981b26962abaa802fbf984
+Size: 800
+Filename: enigma2-plugin-extensions-raedquicksignal_lv_all.ipk
+Description: raedquicksignal
+Maintainer: unlnown
+Priority: optional
+Source: unknown
+Homepage: unknowns
 
 
 Package: enigma2-plugin-extensions-scriptexecutor
