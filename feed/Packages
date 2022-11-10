@@ -496,21 +496,6 @@ OE: enigma2-plugin-extensions-suptv-python2
 License: GPLv2+
 
 
-Package: enigma2-plugin-extensions-tmdb
-Version: 0.9-r7
-Depends: python-json, python-requests, python-imaging
-Section: extra
-Architecture: all
-MD5Sum: da59290cbda52d8db2ec434340e52a1c
-Size: 154623
-Filename: enigma2-plugin-extensions-tmdb_0.9-r7_all.ipk
-Description: Show movie details from TMDb
-Maintainer: schomi
-Priority: optional
-Source: http://www.vuplus-support.org
-Homepage: http://www.vuplus-support.org
-
-
 Package: enigma2-plugin-extensions-wireguard-vpn
 Version: 2.0
 Depends: 
@@ -677,40 +662,6 @@ Priority: optional
 Source: https://github.com/morpheus883/enigma2-settings
 OE: enigma2-plugin-settings-morpheus883-motor
 License: Proprietary
-
-
-Package: enigma2-plugin-settings-satellites.xml
-Version: 1
-Depends: enigma2
-Section: base
-Architecture: all
-MD5Sum: bcb534e7069476a533889310389e6ae4
-Size: 35952
-Filename: enigma2-plugin-settings-satellites.xml_1_all.ipk
-Description: satellites frequencies file
-Maintainer: eliesat
-Priority: optional
-Source: none
-Homepage: unknown
-OE: enigma2
-License: none
-
-
-Package: enigma2-plugin-settings-satellites.xml
-Version: 2
-Depends: enigma2
-Section: base
-Architecture: all
-MD5Sum: 4d38a6203f1572b90198c7afc8c478b7
-Size: 36232
-Filename: enigma2-plugin-settings-satellites.xml_2_all.ipk
-Description: satellites frequencies file with lebanese terrestrial broadcast system
-Maintainer: eliesat
-Priority: optional
-Source: none
-Homepage: unknown
-OE: enigma2
-License: none
 
 
 Package: enigma2-plugin-settings-vhannibal.motor
