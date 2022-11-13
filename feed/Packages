@@ -186,24 +186,6 @@ OE: enigma2
 License: none
 
 
-Package: enigma2-plugin-extensions-cacheflush
-Version: 2.0+git28+7a5243a-r1.6
-Depends: python-core
-Conflicts: enigma2-plugin-pli-cacheflush
-Replaces: enigma2-plugin-pli-cacheflush
-Section: base
-Architecture: cortexa15hf-neon-vfpv4
-MD5Sum: f95f566eece95e552139fa895befef22
-Size: 13096
-Filename: enigma2-plugin-extensions-cacheflush_2.0.ipk
-Description: enigma2-plugin-extensions-cacheflush version 2.0+gitAUTOINC+7a5243a98c-r1
-Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-Priority: optional
-Source: enigma2-plugin-extensions-cacheflush.bb
-OE: enigma2-plugin-extensions-cacheflush
-License: GPLv2+
-
-
 Package: enigma2-plugin-extensions-cccam-server-downloader
 Version: zoom-final-fix7x
 Depends: enigma2
@@ -249,23 +231,6 @@ Priority: optional
 Source: http:/mfaraj.net
 Homepage: http:/mfaraj.net
 OE: enigma2
-
-
-Package: enigma2-plugin-extensions-dreamexplorer
-Version: z-git5246+e6d7678-r0.0
-Depends: enigma2-plugins
-Recommends: gst-plugins-good-flv
-Section: base
-Architecture: cortexa15hf-neon-vfpv4
-MD5Sum: cb3237ed67c234021bdd2ad419bfff04
-Size: 59072
-Filename: enigma2-plugin-extensions-dreamexplorer.ipk
-Description: extensions-dreamexplorer
-Maintainer: OpenPLi team <info@openpli.org>
-Priority: optional
-Source: enigma2-plugins.bb
-OE: enigma2-plugins
-License: Proprietary
 
 
 Package: enigma2-plugin-extensions-dreamsatpanel
@@ -428,23 +393,6 @@ OE: 2.0 - 2.2 - 2.5 -2.6
 License: *
 
 
-Package: enigma2-plugin-extensions-historyzapselector
-Version: 1+git32+1f44f1b-r0.0
-Depends: python-core
-Section: base
-Architecture: cortexa15hf-neon-vfpv4
-MD5Sum: 9f48841ce312e734ea2f6a7e70a2326d
-Size: 66526
-Filename: enigma2-plugin-extensions-historyzapselector_1.ipk
-Description: enigma2-plugin-extensions-historyzapselector version 1+gitAUTOINC+1f44f1bb8c-r0
-Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-Priority: optional
-Source: enigma2-plugin-extensions-historyzapselector.bb
-Homepage: https://github.com/Dima73/enigma2-plugin-extensions-historyzapselector
-OE: enigma2-plugin-extensions-historyzapselector
-License: PD
-
-
 Package: enigma2-plugin-extensions-icamsettings
 Version: 1.2
 Section: settings
@@ -474,22 +422,6 @@ Source: none
 Homepage: unknown
 OE: enigma2
 License: none
-
-
-Package: enigma2-plugin-extensions-imdb
-Version: z-git5246+e6d7678-r0.0
-Depends: python-html, python-twisted-web
-Section: base
-Architecture: cortexa15hf-neon-vfpv4
-MD5Sum: d734dd746eecdc43116ae596204eb520
-Size: 53754
-Filename: enigma2-plugin-extensions-imdb.ipk
-Description: extensions-imdb
-Maintainer: OpenPLi team <info@openpli.org>
-Priority: optional
-Source: enigma2-plugins.bb
-OE: enigma2-plugins
-License: Proprietary
 
 
 Package: enigma2-plugin-extensions-infobarweather
@@ -577,13 +509,13 @@ Homepage: unknown
 
 
 Package: enigma2-plugin-extensions-levi45multicammanager
-Version: 9.6-r7
+Version: 9.6-r8
 Depends: enigma2
 Section: misc
 Architecture: all
-MD5Sum: 80e3d34aa3c51844402e002712e25c5f
-Size: 756878
-Filename: enigma2-plugin-extensions-levi45multicammanager_9.6-r7_all.ipk
+MD5Sum: 34aafbb7c413b501d9e471c0958f9828
+Size: 759636
+Filename: enigma2-plugin-extensions-levi45multicammanager_9.6-r8_all.ipk
 Description: Addon/Multicam Manager by Levi45
 Maintainer: levi45
 Priority: optional
@@ -807,35 +739,6 @@ OE: enigma2-plugin-extensions-omb-enhanced
 License: GPLv2
 
 
-Package: enigma2-plugin-extensions-opkg-tools
-Version: 1.2
-Section: extra
-Architecture: cortexa15hf-neon-vfpv4
-MD5Sum: 35c221dab5822c309c53541d8f5a7939
-Size: 1963236
-Filename: enigma2-plugin-extensions-opkg-tools_1.2.ipk
-Description: OPKG Pack / Unpack Tools
-Maintainer: original Hendrik Leesch <hendrik@leesch.de>
-Priority: optional
-Source: 
-Homepage: 
-OE: ipkg-tools-1.2
-
-
-Package: enigma2-plugin-extensions-oscamstatus
-Version: 4.2
-Section: extra
-Architecture: all
-MD5Sum: 07787d4d928090093a37973857b31f87
-Size: 76280
-Filename: enigma2-plugin-extensions-oscamstatus_4.2_all.ipk
-Description: OscamStatus Plugin by puhvogel modified by kitte888 2022 for Python3 und 2 und Ncam
-Maintainer: pr2
-Priority: optional
-Source: *
-Homepage: *
-
-
 Package: enigma2-plugin-extensions-oscamstatus
 Version: 5.3
 Section: extra
@@ -1011,24 +914,6 @@ OE: enigma2-plugin-extensions-suptv-python2
 License: GPLv2+
 
 
-Package: enigma2-plugin-extensions-telekomsport
-Version: 2.0+git93+b0dca2f-r0
-Depends: python-core
-Conflicts: enigma2-plugin-pli-telekomsport
-Replaces: enigma2-plugin-pli-telekomsport
-Section: base
-Architecture: all
-MD5Sum: 3d39cbafe5a783b5010d941189689185
-Size: 86112
-Filename: enigma2-plugin-extensions-telekomsport_2.0+git93+b0dca2f-r0.ipk
-Description: enigma2-plugin-extensions-telekomsport version 2.0+gitAUTOINC+b0dca2f74e-r0
-Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-Priority: optional
-Source: enigma2-plugin-extensions-telekomsport.bb
-OE: enigma2-plugin-extensions-telekomsport
-License: GPLv2
-
-
 Package: all
 Version: 2.3
 Depends: enigma2
@@ -1202,22 +1087,6 @@ Priority: optional
 Source: https://github.com/digiteng/xtra
 Homepage: https://github.com/digiteng/xtra
 OE: all
-
-
-Package: enigma2-plugin-extensions-youtube
-Version: h1+git1031+345bd57-r0.0
-Depends: python-codecs, python-core, python-json, python-netclient
-Section: multimedia
-Architecture: all
-MD5Sum: 407f6818237fe203e437d71aa12e69a2
-Size: 154524
-Filename: enigma2-plugin-extensions-youtube_h1+git1031+345bd57-r0.0_all.ipk
-Description: Enigma2 plugin to manage your youtube account and watch videos
-Maintainer: Taapat <taapat@gmail.com>
-Priority: optional
-Homepage: https://github.com/Taapat/enigma2-plugin-youtube
-OE: enigma2-plugin-extensions-youtube
-License: PD
 
 
 Package: enigma2-plugin-picons-transparent220x132
