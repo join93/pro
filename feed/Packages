@@ -1,3 +1,83 @@
+Package: enigma2-plugin-drivers-network-usb-mt7601u
+Version: 1.0-r2
+Recommends: firmware-mt7601u, kernel-module-mt7601u
+Section: base
+Architecture: all
+MD5Sum: 182e5634648f0ac572ca880184acac7b
+Size: 644
+Filename: enigma2-plugin-drivers-network-usb-mt7601u_1.0-r2_all.ipk
+Description: mediatek 7601u
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+Priority: optional
+Source: enigma2-plugin-drivers-network-usb-mt7601u.bb
+OE: enigma2-plugin-drivers-network-usb-mt7601u
+License: GPLv2+
+
+
+Package: enigma2-plugin-drivers-network-usb-mt7610u
+Version: 1.0-r0
+Section: base
+Architecture: all
+MD5Sum: ae4d289983fef601a9f6742adcfba5f9
+Size: 616
+Filename: enigma2-plugin-drivers-network-usb-mt7610u_1.0-r0_all.ipk
+Description: mediatek 7610u
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+Priority: optional
+Source: enigma2-plugin-drivers-network-usb-mt7610u.bb
+OE: enigma2-plugin-drivers-network-usb-mt7610u
+License: GPLv2+
+
+
+Package: enigma2-plugin-drivers-network-usb-rt3070
+Version: 1.0-r0
+Recommends: firmware-rt3070, kernel-module-rt2800usb
+Section: base
+Architecture: all
+MD5Sum: 4e96b4d35436cabf053b64658abc00ab
+Size: 694
+Filename: enigma2-plugin-drivers-network-usb-rt3070_1.0-r0_all.ipk
+Description: Driver for Ralink RT8070/3070/3370/5370/5372 USB 802.11abgn WiFi sticks
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+Priority: optional
+Source: enigma2-plugin-drivers-network-usb-rt3070.bb
+OE: enigma2-plugin-drivers-network-usb-rt3070
+License: GPLv2+
+
+
+Package: enigma2-plugin-drivers-network-usb-rt3573
+Version: 1.0-r0
+Recommends: kernel-module-rt2800usb
+Section: base
+Architecture: all
+MD5Sum: bafdf6be3386f328d4226e9f4f0cd6c8
+Size: 672
+Filename: enigma2-plugin-drivers-network-usb-rt3573_1.0-r0_all.ipk
+Description: rt3573 802.11a/b/g/n 2.4/5 GHz USB Single Chip
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+Priority: optional
+Source: enigma2-plugin-drivers-network-usb-rt3573.bb
+OE: enigma2-plugin-drivers-network-usb-rt3573
+License: GPLv2+
+
+
+Package: enigma2-plugin-extensions-ajpanel-backup-restore-folder
+Version: 7.4.0
+Depends: enigma2
+Section: extra
+Architecture: all
+MD5Sum: 94b506352ef18dea06ed03b211c9284a
+Size: 1070
+Filename: enigma2-plugin-extensions-ajpanel-backup-restore-folder_7.4.0_all.ipk
+Description: ajpanel update file and settings backup folder
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
 Package: enigma2-plugin-extensions-ajpanel
 Version: v7.4.0
 Depends: enigma2
@@ -44,6 +124,20 @@ OE: enigma2
 License: none
 
 
+Package: enigma2-plugin-extensions-athantimes
+Version: 2.2
+Section: external
+Architecture: all
+MD5Sum: 810c043fd81d43061de201bcbbd0be01
+Size: 4838416
+Filename: enigma2-plugin-extensions-athantimes_2.2_all.ipk
+Description: athantimes-by-aime-jeux
+Maintainer: AbouYacine
+Priority: optional
+Source: 
+Homepage: 
+
+
 Package: enigma2-plugin-extensions-bissfeed-autokey
 Version: 20211116-V2.9-By-momi133-OE2
 Section: extra
@@ -56,6 +150,58 @@ Maintainer: momi133 <moom133@gmail.com>
 Priority: optional
 Source: unknown
 Homepage: unknowns
+
+
+Package: enigma2-plugin-extensions-bootlogokids
+Version: stony272
+Depends: enigma2
+Section: extra
+Architecture: all
+MD5Sum: c2037f66d9728dfc2cc5424edae9ded1
+Size: 1076
+Filename: enigma2-plugin-extensions-bootlogokids_stony272_all.ipk
+Description: select your logo
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-extensions-bootlogoswapper
+Version: v1.0
+Depends: enigma2
+Section: extra
+Architecture: all
+MD5Sum: bd3048d172fd25e79943cf409741e566
+Size: 1078
+Filename: enigma2-plugin-extensions-bootlogoswapper_v1.0_all.ipk
+Description: auto swapping 16 bootlogos
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-extensions-cacheflush
+Version: 2.0+git28+7a5243a-r1.6
+Depends: python-core
+Conflicts: enigma2-plugin-pli-cacheflush
+Replaces: enigma2-plugin-pli-cacheflush
+Section: base
+Architecture: cortexa15hf-neon-vfpv4
+MD5Sum: f95f566eece95e552139fa895befef22
+Size: 13096
+Filename: enigma2-plugin-extensions-cacheflush_2.0.ipk
+Description: enigma2-plugin-extensions-cacheflush version 2.0+gitAUTOINC+7a5243a98c-r1
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+Priority: optional
+Source: enigma2-plugin-extensions-cacheflush.bb
+OE: enigma2-plugin-extensions-cacheflush
+License: GPLv2+
 
 
 Package: enigma2-plugin-extensions-cccam-server-downloader
@@ -75,6 +221,20 @@ OE: enigma2
 License: none
 
 
+Package: enigma2-plugin-extensions-chocholousek-picons
+Version: 5.0.221027
+Section: extra
+Architecture: all
+MD5Sum: 6ee9b2a26ac72260ea074d8163e3501c
+Size: 104946
+Filename: enigma2-plugin-extensions-chocholousek-picons_5.0.221027_all.ipk
+Description: Enigma2 plugin for downloading and updating picons (almost all EU satellites)
+Maintainer: s3n0
+Priority: optional
+Homepage: https://github.com/s3n0/
+License: GPLv3
+
+
 Package: enigma2-plugin-extensions-crondmanager
 Version: 20181209-r1.3
 Depends: 
@@ -89,6 +249,23 @@ Priority: optional
 Source: http:/mfaraj.net
 Homepage: http:/mfaraj.net
 OE: enigma2
+
+
+Package: enigma2-plugin-extensions-dreamexplorer
+Version: z-git5246+e6d7678-r0.0
+Depends: enigma2-plugins
+Recommends: gst-plugins-good-flv
+Section: base
+Architecture: cortexa15hf-neon-vfpv4
+MD5Sum: cb3237ed67c234021bdd2ad419bfff04
+Size: 59072
+Filename: enigma2-plugin-extensions-dreamexplorer.ipk
+Description: extensions-dreamexplorer
+Maintainer: OpenPLi team <info@openpli.org>
+Priority: optional
+Source: enigma2-plugins.bb
+OE: enigma2-plugins
+License: Proprietary
 
 
 Package: enigma2-plugin-extensions-dreamsatpanel
@@ -191,6 +368,21 @@ Priority: optional
 Source: https://github.com/ziko-ZR1/FootOnsat
 
 
+Package: enigma2-plugin-extensions-foreca
+Version: 3.2.6-r3
+Section: extra
+Architecture: all
+MD5Sum: c1ec5cac53989b1828c5a392bacf3f01
+Size: 811144
+Filename: enigma2-plugin-extensions-foreca_3.2.6-r3_all.ipk
+Description: Wetter Vorhersage fuer die folgenden 10 Tage
+Maintainer: Bauernbub
+Priority: optional
+Source: https://github.com/E2OpenPlugins/e2openplugin-Foreca
+Homepage: http://openpli.org/forums/topic/25848-foreca-weather-plugin-problem/
+OE: enigma2-plugin-extensions-foreca
+
+
 Package: enigma2-plugin-extensions-freearhey
 Version: 2.7
 Section: misc
@@ -236,6 +428,23 @@ OE: 2.0 - 2.2 - 2.5 -2.6
 License: *
 
 
+Package: enigma2-plugin-extensions-historyzapselector
+Version: 1+git32+1f44f1b-r0.0
+Depends: python-core
+Section: base
+Architecture: cortexa15hf-neon-vfpv4
+MD5Sum: 9f48841ce312e734ea2f6a7e70a2326d
+Size: 66526
+Filename: enigma2-plugin-extensions-historyzapselector_1.ipk
+Description: enigma2-plugin-extensions-historyzapselector version 1+gitAUTOINC+1f44f1bb8c-r0
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+Priority: optional
+Source: enigma2-plugin-extensions-historyzapselector.bb
+Homepage: https://github.com/Dima73/enigma2-plugin-extensions-historyzapselector
+OE: enigma2-plugin-extensions-historyzapselector
+License: PD
+
+
 Package: enigma2-plugin-extensions-icamsettings
 Version: 1.2
 Section: settings
@@ -265,6 +474,35 @@ Source: none
 Homepage: unknown
 OE: enigma2
 License: none
+
+
+Package: enigma2-plugin-extensions-imdb
+Version: z-git5246+e6d7678-r0.0
+Depends: python-html, python-twisted-web
+Section: base
+Architecture: cortexa15hf-neon-vfpv4
+MD5Sum: d734dd746eecdc43116ae596204eb520
+Size: 53754
+Filename: enigma2-plugin-extensions-imdb.ipk
+Description: extensions-imdb
+Maintainer: OpenPLi team <info@openpli.org>
+Priority: optional
+Source: enigma2-plugins.bb
+OE: enigma2-plugins
+License: Proprietary
+
+
+Package: enigma2-plugin-extensions-infobarweather
+Version: 0.10
+Section: misc
+Architecture: all
+MD5Sum: 20aa2c043d517eb3fd71bace2a06d00e
+Size: 44912
+Filename: enigma2-plugin-extensions-infobarweather_all.ipk
+Description: Show current weather in infobar
+Maintainer: scriptmelvin
+Priority: optional
+License: GPLv2
 
 
 Package: enigma2-plugin-extensions-internet-speedtest
@@ -324,19 +562,6 @@ Priority: optional
 Source: https://github.com/ziko-ZR1/IPtoSAT
 
 
-Package: enigma2-plugin-extensions-jedimakerxtream
-Version: 6.20.20210928
-Section: misc
-Architecture: all
-MD5Sum: a088bc5efa1e1ea807673d6e0eba71ed
-Size: 1810852
-Filename: enigma2-plugin-extensions-jedimakerxtream_6.20_all.ipk
-Description: Jedi Maker Xtream
-Maintainer: kiddac
-Priority: optional
-Source: 
-
-
 Package: enigma2-plugin-extensions-keyadder
 Version: 5.9
 Section: extra
@@ -365,6 +590,21 @@ Priority: optional
 Source: satellite-forum.com
 
 
+Package: enigma2-plugin-extensions-linuxsat-active-code-addons-panel
+Version: v2.2F
+Depends: python-requests, python-misc, openvpn
+Section: extra
+Architecture: all
+MD5Sum: d3a2943b02852e3e8d5d0c1060fea8ec
+Size: 2196874
+Filename: enigma2-plugin-extensions-linuxsat-active-code-addons-panel_v2.2F_all.ipk
+Description: Active Code Plugin addons panel By linuxsat Date: 22-02-2021
+Maintainer: LINUXSAT
+Priority: optional
+OE: 2.0
+License: free
+
+
 Package: enigma2-plugin-extensions-m2b
 Version: 2.7
 Section: base
@@ -378,6 +618,38 @@ Priority: optional
 Source: 
 Homepage: 
 OE: enigma2-plugin-extensions-m2b
+
+
+Package: nigma2-plugin-extensions-m3uplayer
+Version: 1.0
+Section: extra
+Architecture: all
+MD5Sum: 1f7bbbcc1c3bbaa71f06ace2dae9422c
+Size: 955102
+Filename: enigma2-plugin-extensions-m3uplayer_1.0_all.ipk
+Description: m3uplayer
+Maintainer: mfaraj57 <@tunisia-sat.com>
+Priority: optional
+Source: file://m3uPlayer
+Homepage: http://www.tunisia-sat.com
+OE: enigma2-plugin-extensions-m3uplayer
+License: CLOSED
+
+
+Package: enigma2-plugin-extensions-menusort
+Version: 5.2
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 68e6b6f9717d13fa8816fb8856829ca8
+Size: 10820
+Filename: enigma2-plugin-extensions-menusort_5.2_all.ipk
+Description: extensions-menusort
+Maintainer: OE-Alliance
+Priority: optional
+Source: git://github.com/openhdf/enigma2.git;protocol=git
+OE: enigma2
+License: GPLv2
 
 
 Package: enigma2-plugin-extensions-movieorganisor
@@ -433,6 +705,21 @@ Maintainer: pr2
 Priority: optional
 Source: *
 Homepage: *
+
+
+Package: enigma2-plugin-extensions-neoboot
+Version: 9.26
+Depends: 
+Section: extra
+Architecture: all
+MD5Sum: fe8e9b8066b5272332d6578c6710f58d
+Size: 5028376
+Filename: enigma2-plugin-extensions-neoboot_9.26_all.ipk
+Description: enigma2-plugin-NeoBoot
+Maintainer: Docea37  <www.dreamosat-forum.com>
+Priority: optional
+Source: https://dreamosat-forum.com
+OE: NeoBoot
 
 
 Package: enigma2-plugin-extensions-neoboot
@@ -549,6 +836,35 @@ Source: *
 Homepage: *
 
 
+Package: enigma2-plugin-extensions-oscamstatus
+Version: 5.3
+Section: extra
+Architecture: all
+MD5Sum: 47cfe6550855807dd804bfee0780479c
+Size: 79700
+Filename: enigma2-plugin-extensions-oscamstatus_5.3_all.ipk
+Description: OscamStatus Plugin by puhvogel modified by kitte888 2022 for Python3 und 2 und Ncam
+Maintainer: pr2
+Priority: optional
+Source: *
+Homepage: *
+
+
+Package: enigma2-plugin-extensions-petazetas
+Version: 1.1
+Section: base
+Architecture: all
+MD5Sum: 36ed3afdd3d3d3a4e468c1bc99a04cdc
+Size: 67462
+Filename: enigma2-plugin-extensions-petazetas_1.1_all.ipk
+Description: petazetas
+Maintainer: OE-Core
+Priority: optional
+Source: none
+Homepage: none
+OE: enigma2-plugins
+
+
 Package: enigma2-plugin-extensions-plugin-skin-mover
 Version: 0.6
 Section: skins
@@ -579,6 +895,19 @@ Homepage:
 License: GPLv2+
 
 
+Package: enigma2-plugin-extensions-quarterpounder
+Version: 6.2.0u
+Section: extra
+Architecture: all
+MD5Sum: 23c0e7d893e2a32ad5142a3fef07a0de
+Size: 11497
+Filename: enigma2-plugin-extensions-quarterpounder-6.2.0u.ipk
+Description: Enigma2 A Tasty Treat 2
+Maintainer: @oottppxx
+Priority: optional
+OE: enigma2-plugin-extensions-quarterpounder
+
+
 Package: enigma2-plugin-extensions-quran-karim
 Version: 2.1
 Section: base
@@ -607,6 +936,21 @@ Source: unknown
 Homepage: unknowns
 
 
+Package: enigma2-plugin-extensions-satvenus-panel
+Version: 7.3.3
+Section: base
+Architecture: all
+MD5Sum: 6c7ef760d21d8d27d1e53e9f971ddac1
+Size: 8353174
+Filename: enigma2-plugin-extensions-satvenus-panel_7.3.3_all.ipk
+Description: satvenus
+Maintainer: satvenus
+Priority: optional
+Source: thanks@all
+Homepage: http://satvenus.com
+License: none
+
+
 Package: enigma2-plugin-extensions-scriptexecutor
 Version: 1.0
 Section: base
@@ -621,6 +965,22 @@ Source: none
 Homepage: unknown
 OE: enigma2
 License: OPEN
+
+
+Package: enigma2-plugin-extensions-shootyourscreen
+Version: 0.2+git20+d27a15e-r0.5
+Depends: aio-grab, python-core
+Section: base
+Architecture: h7
+MD5Sum: 07e1d5ef502c8aeb1bb60f58088c6c80
+Size: 9310
+Filename: enigma2-plugin-extensions-shootyourscreen_0.2_h7.ipk
+Description: enigma2-plugin-extensions-shootyourscreen version 0.2+gitAUTOINC+d27a15e2d1-r0
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+Priority: optional
+Source: enigma2-plugin-extensions-shootyourscreen.bb
+OE: enigma2-plugin-extensions-shootyourscreen
+License: GPLv2+
 
 
 Package: enigma2-plugin-extensions-spinnerselector
@@ -649,6 +1009,112 @@ Source:
 Homepage: 
 OE: enigma2-plugin-extensions-suptv-python2
 License: GPLv2+
+
+
+Package: enigma2-plugin-extensions-telekomsport
+Version: 2.0+git93+b0dca2f-r0
+Depends: python-core
+Conflicts: enigma2-plugin-pli-telekomsport
+Replaces: enigma2-plugin-pli-telekomsport
+Section: base
+Architecture: all
+MD5Sum: 3d39cbafe5a783b5010d941189689185
+Size: 86112
+Filename: enigma2-plugin-extensions-telekomsport_2.0+git93+b0dca2f-r0.ipk
+Description: enigma2-plugin-extensions-telekomsport version 2.0+gitAUTOINC+b0dca2f74e-r0
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+Priority: optional
+Source: enigma2-plugin-extensions-telekomsport.bb
+OE: enigma2-plugin-extensions-telekomsport
+License: GPLv2
+
+
+Package: all
+Version: 2.3
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 874ef8a584752e04b85f53512e0d80c6
+Size: 7249602
+Filename: enigma2-plugin-extensions-theweather-py2_2.3_all.ipk
+Description: WeatherInfo Plugin
+Maintainer: Caught
+Priority: optional
+OE: enigma2-plugins
+
+
+Package: enigma2-plugin-extensions-tmbd
+Version: 8.6-r1-by-Dima73-Mod-RAED
+Depends: python-html, python-misc, python-shell, python-subprocess, python-twisted-web, python-unixadmin, python-xml, libxml2, libxslt, python-compression
+Section: base
+Architecture: all
+MD5Sum: 3f684877903caa6aff45cc411e01bc36
+Size: 2194108
+Filename: enigma2-plugin-extensions-tmbd_8.6-r1-by-Dima73-Mod-RAED_all.ipk
+Description: enigma2-plugin-extensions-tmbd
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+Priority: optional
+Source: enigma2-plugin-extensions-tmbd.bb
+Homepage: https://github.com/Dima73/enigma2-plugin-extensions-tmbd
+OE: enigma2-plugin-extensions-tmbd
+License: PD
+
+
+Package: enigma2-plugin-extensions-translator
+Version: 1.4rc2-fhd-edition
+Section: misc
+Architecture: all
+MD5Sum: 31d876c9a07f15e024645650f4ef02d2
+Size: 1902574
+Filename: enigma2-plugin-extensions-translator_1.4rc2-fhd-edition_all.ipk
+Description: EPG YouTube Trailer & Translator by kashmir
+Maintainer: Kashmir
+Priority: optional
+Source: 
+Homepage: 
+
+
+Package: enigma2-plugin-extensions-tuneinradio
+Version: 4.0
+Depends: 
+Section: extra
+Architecture: all
+MD5Sum: 03ea2233fc79522563bb33ff9b3fcb66
+Size: 1745894
+Filename: enigma2-plugin-extensions-tuneinradio_4.0_all.ipk
+Description: listen to world from tunein with wallpaper slideshow
+Maintainer: mfaraj
+Priority: optional
+Source: 
+Homepage: https://www.tunisia-sat.com
+
+
+Package: enigma2-plugin-extensions-weather-msn
+Version: 1.3-r3_PY2_3_mod
+Section: base
+Architecture: all
+MD5Sum: fa1d6f95983345fd38381021ab993c3e
+Size: 743432
+Filename: enigma2-plugin-extensions-weather-msn_1.3-r3_PY2_3_mod_all.ipk
+Description: Weather forecast, astronomical calculations
+Maintainer: Sirius
+Priority: optional
+Source: enigma2-plugin-extensions-vzaphistory.bb
+Homepage: https://github.com/Sirius0103/enigma2-plugins/tree/master/python/Plugins/Extensions/WeatherMSN
+OE: enigma2-plugin-extensions-vzaphistory
+License: PD
+
+
+Package: enigma2-plugin-extensions-weatherplugin-icons
+Version: 1.1
+Section: base
+Architecture: all
+MD5Sum: ff0bbde96ce60418622e24b774614f76
+Size: 1661028
+Filename: enigma2-plugin-extensions-weatherplugin-icons_1.1_all.ipk
+Description: weather-icons-special
+Maintainer: none
+Priority: optional
 
 
 Package: enigma2-plugin-extensions-wireguard-vpn
@@ -1012,6 +1478,22 @@ Source: https://github.com/MOHAMED19OS
 License: open
 
 
+Package: enigma2-plugin-systemplugins-bouquetsprotection
+Version: 0.2-rc1
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 85b1018dd4253caf2a9b6d7c39a66b2c
+Size: 8724
+Filename: enigma2-plugin-systemplugins-bouquetsprotection_0.2-rc1_all.ipk
+Description: systemplugins Bouquets Protection.
+Maintainer: vlamo <vlamo@ukr.net>
+Priority: optional
+Source: http://dream.altmaster.net/
+Homepage: http://dream.altmaster.net/
+OE: enigma2
+
+
 Package: enigma2-plugin-systemplugins-servicescanupdates
 Version: 1.1
 Depends: enigma2
@@ -1023,6 +1505,20 @@ Filename: enigma2-plugin-systemplugins-service-scan-updates_1.1_all.ipk
 Description: Create bouquets with new services after service scan
 Maintainer: MacDisein
 Priority: optional
+
+
+Package: enigma2-plugin-weblinks-bootvideo-openpli
+Version: eliesat
+Section: extra
+Architecture: all
+MD5Sum: 704c01e4b1645d876b911be4acb49209
+Size: 9218952
+Filename: enigma2-plugin-weblinks-bootvideo-openpli_eliesat_all.ipk
+Description: bootvideo
+Maintainer: eliesat
+Priority: standard
+Source: unknown
+Homepage: unknown
 
 
 Package: enigma2-plugin-weblinks-fullbackup
@@ -1244,5 +1740,21 @@ Source: none
 Homepage: unknown
 OE: enigma2
 License: none
+
+
+Package: kernel-module-novaler4k-mt7601u-4.4.35
+Version: 4.4.35-r0.6
+Depends: kernel-4.4.35, kernel-module-cfg80211-4.4.35, kernel-module-mac80211-4.4.35
+Section: kernel
+Architecture: multibox
+MD5Sum: b8eb3bb0c73e8445875117d6ac14f1ec
+Size: 2535876
+Filename: kernel-module-novaler4k-mt7601u-4.4.35_4.4.35-r0.6_multibox.ipk
+Description: mt7601u kernel module
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+Priority: optional
+Source: linux-maxytec_4.4.35.bb
+OE: linux-maxytec
+License: GPLv2
 
 
