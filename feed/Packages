@@ -1611,6 +1611,23 @@ OE: enigma2
 License: none
 
 
+Package: enigma2-plugin-weblinks-subtitles-fonts
+Version: mora
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: aba9038cbc1577e545370f680f3ce5f9
+Size: 1044
+Filename: enigma2-plugin-weblinks-subtitles-fonts_mora_all.ipk
+Description: subtitles fonts
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
 Package: enigma2-plugin-weblinks-subtitles
 Version: mora
 Depends: enigma2
