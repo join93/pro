@@ -1611,6 +1611,23 @@ OE: enigma2
 License: none
 
 
+Package: enigma2-plugin-weblinks-subtitles
+Version: mora
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 88fd0d95ed65d2728ee15a546d3de906
+Size: 1064
+Filename: enigma2-plugin-weblinks-subtitles_mora_all.ipk
+Description: download mora subtitles to your external storage (295mb)
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
 Package: kernel-module-novaler4k-mt7601u-4.4.35
 Version: 4.4.35-r0.6
 Depends: kernel-4.4.35, kernel-module-cfg80211-4.4.35, kernel-module-mac80211-4.4.35
