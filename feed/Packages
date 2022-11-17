@@ -1173,9 +1173,26 @@ Version: 2.0
 Depends: enigma2
 Section: base
 Architecture: all
-MD5Sum: fd946e10aa36ba6cd3c5c33959525900
-Size: 1172
+MD5Sum: 534da34353e0a2a6a66dab27fb30ad57
+Size: 1150
 Filename: enigma2-plugin-skins-bohlala-fhd_2.0_all.ipk
+Description: uploaded by eliesat
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-skins-nitroadvance-fhd
+Version: 5.4
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: c87651f04ad0ac894c04a1e22433c1dd
+Size: 1148
+Filename: enigma2-plugin-skins-nitroadvance-fhd_5.4_all.ipk
 Description: uploaded by eliesat
 Maintainer: eliesat
 Priority: optional
@@ -1207,8 +1224,8 @@ Version: 2.0
 Depends: enigma2
 Section: base
 Architecture: all
-MD5Sum: 7d38b00d9a8b98ccccabbaaa218bdbc5
-Size: 1176
+MD5Sum: 336941a59a535b796f984fd63298ec3a
+Size: 1152
 Filename: enigma2-plugin-skins-red-dragonfhd_2.0_all.ipk
 Description: uploaded by eliesat
 Maintainer: eliesat
