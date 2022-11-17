@@ -1202,23 +1202,6 @@ OE: enigma2
 License: none
 
 
-Package: enigma2-plugin-skins-nitroadvanced-fhd
-Version: 5.4
-Depends: enigma2
-Section: base
-Architecture: all
-MD5Sum: 309153bddee69df21fc02e2fa1e9513e
-Size: 1172
-Filename: enigma2-plugin-skins-nitroadvanced-fhd_5.4_all.ipk
-Description: uploaded by eliesat
-Maintainer: eliesat
-Priority: optional
-Source: none
-Homepage: unknown
-OE: enigma2
-License: none
-
-
 Package: enigma2-plugin-skins-red-dragonfhd
 Version: 2.0
 Depends: enigma2
