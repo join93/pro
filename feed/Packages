@@ -1202,6 +1202,23 @@ OE: enigma2
 License: none
 
 
+Package: enigma2-plugin-skins-red-dragonfhd
+Version: 2.0
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 7d38b00d9a8b98ccccabbaaa218bdbc5
+Size: 1176
+Filename: enigma2-plugin-skins-red-dragonfhd_2.0_all.ipk
+Description: uploaded by eliesat
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
 Package: enigma2-plugin-softcams-gosatplus-ncam
 Version: V13.4-r0
 Depends: libcurl4
