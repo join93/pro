@@ -1168,6 +1168,23 @@ OE: enigma2-plugin-settings-vhannibal.motor
 License: Proprietary
 
 
+Package: enigma2-plugin-skins-bohlala-fhd
+Version: 2.0
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: fd946e10aa36ba6cd3c5c33959525900
+Size: 1172
+Filename: enigma2-plugin-skins-bohlala-fhd_2.0_all.ipk
+Description: uploaded by eliesat
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
 Package: enigma2-plugin-skins-nitroadvanced-fhd
 Version: 5.4
 Depends: enigma2
