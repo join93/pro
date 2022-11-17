@@ -1168,6 +1168,23 @@ OE: enigma2-plugin-settings-vhannibal.motor
 License: Proprietary
 
 
+Package: enigma2-plugin-skins-nitroadvanced-fhd
+Version: 5.4
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 309153bddee69df21fc02e2fa1e9513e
+Size: 1172
+Filename: enigma2-plugin-skins-nitroadvanced-fhd_5.4_all.ipk
+Description: uploaded by eliesat
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
 Package: enigma2-plugin-softcams-gosatplus-ncam
 Version: V13.4-r0
 Depends: libcurl4
@@ -1616,8 +1633,8 @@ Version: mora
 Depends: enigma2
 Section: base
 Architecture: all
-MD5Sum: aba9038cbc1577e545370f680f3ce5f9
-Size: 1044
+MD5Sum: 1b69b2949edf00cf0cb4a21f3fd0ec0a
+Size: 966
 Filename: enigma2-plugin-weblinks-subtitles-fonts_mora_all.ipk
 Description: subtitles fonts
 Maintainer: eliesat
