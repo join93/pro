@@ -1122,13 +1122,13 @@ License: Proprietary
 
 
 Package: enigma2-plugin-settings-hazemwahba.motor
-Version: 05-11-2022
+Version: 17-11-2022
 Depends: enigma2
 Section: base
 Architecture: all
-MD5Sum: 510b72da0925c164c3911b3cd945411c
-Size: 1270
-Filename: enigma2-plugin-settings-hazemwahba.motor_05-11-2022_all.ipk
+MD5Sum: f9b4f6eb56fe2624e03c344df1f0dac6
+Size: 1274
+Filename: enigma2-plugin-settings-hazemwahba.motor_17-11-2022_all.ipk
 Description: HazemWahba E2 Settings File Motor 34.5w to 70.5e
 Maintainer: eliesat
 Priority: optional
