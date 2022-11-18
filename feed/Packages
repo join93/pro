@@ -1427,20 +1427,6 @@ Maintainer: MacDisein
 Priority: optional
 
 
-Package: enigma2-plugin-weblinks-bootvideo-openpli
-Version: eliesat
-Section: extra
-Architecture: all
-MD5Sum: 704c01e4b1645d876b911be4acb49209
-Size: 9218952
-Filename: enigma2-plugin-weblinks-bootvideo-openpli_eliesat_all.ipk
-Description: bootvideo
-Maintainer: eliesat
-Priority: standard
-Source: unknown
-Homepage: unknown
-
-
 Package: enigma2-plugin-weblinks-fullbackup
 Version: openpli
 Depends: enigma2
@@ -1450,6 +1436,23 @@ MD5Sum: 5c99b4709b5399370b14ef5708969ac1
 Size: 1012
 Filename: enigma2-plugin-weblinks-fullbackup_openpli_all.ipk
 Description: install full backup to your stb
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-weblinks-image-feeds-backup
+Version: eliesat
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 93ccac9f317f9f4ea3e4fa83f47f96d7
+Size: 832
+Filename: enigma2-plugin-weblinks-image-feeds-backup_eliesat_all.ipk
+Description: remove and restore image feeds (by eliesat)
 Maintainer: eliesat
 Priority: optional
 Source: none
