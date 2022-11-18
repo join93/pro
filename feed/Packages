@@ -1089,14 +1089,14 @@ Homepage: https://github.com/digiteng/xtra
 OE: all
 
 
-Package: enigma2-plugin-picons-transparent220x132
-Version: 2022-10-27
+Package: enigma2-plugin-picons-transparent.220x132
+Version: 2022-11-16
 Depends: enigma2
 Section: weblinks
 Architecture: all
-MD5Sum: d2049be332e9c5f813ef3765a3f18b66
-Size: 1048
-Filename: enigma2-plugin-picons-transparent220x132_2022-10-27_all.ipk
+MD5Sum: ba7e92afc135a6e451a60831038298be
+Size: 1042
+Filename: enigma2-plugin-picons-transparent.220x132_2022-11-16_all.ipk
 Description: 30w to 62e (by eliesat)
 Maintainer: eliesat
 Priority: optional
