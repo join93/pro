@@ -1532,6 +1532,72 @@ Homepage: http://dream.altmaster.net/
 OE: enigma2
 
 
+Package: enigma2-plugin-systemplugins-devicemanager
+Version: 1+git49+0b7ff9a-r0.0
+Depends: python-core
+Recommends: dosfstools, e2fsprogs, e2fsprogs-e2fsck, e2fsprogs-mke2fs, exfat-utils, fuse-exfat, hddtemp, ntfsprogs, util-linux-sfdisk
+Section: base
+Architecture: cortexa15hf-neon-vfpv4
+MD5Sum: e78ba0ac2c383c7337b424c2160fabe7
+Size: 55492
+Filename: enigma2-plugin-systemplugins-devicemanager_1.ipk
+Description: enigma2-plugin-systemplugins-devicemanager version 1+gitAUTOINC+0b7ff9a7f7-r0
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+Priority: optional
+Source: enigma2-plugin-systemplugins-devicemanager.bb
+Homepage: https://github.com/Dima73/enigma2-plugin-systemplugins-devicemanager
+OE: enigma2-plugin-systemplugins-devicemanager
+License: GPLv2
+
+
+Package: enigma2-plugin-systemplugins-mountmanager
+Version: 1+git56+63646c2-r0.0
+Depends: e2fsprogs-tune2fs
+Section: base
+Architecture: cortexa15hf-neon-vfpv4
+MD5Sum: 7b86292f0c7fc9687eb98b29c10d7bf2
+Size: 67872
+Filename: enigma2-plugin-systemplugins-mountmanager_1.ipk
+Description: enigma2-plugin-systemplugins-mountmanager version 1+gitAUTOINC+63646c2e38-r0
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+Priority: optional
+Source: enigma2-plugin-systemplugins-mountmanager.bb
+Homepage: https://github.com/Dima73/enigma2-plugin-mountmanager
+OE: enigma2-plugin-systemplugins-mountmanager
+License: PD
+
+
+Package: enigma2-plugin-systemplugins-networkwizard
+Version: 2.7+git19696+fea507c-r0.0
+Section: base
+Architecture: h7
+MD5Sum: e7bf2b830525151111bb339ca369ed3c
+Size: 7280
+Filename: enigma2-plugin-systemplugins-networkwizard_2.7_h7.ipk
+Description: systemplugins-networkwizard
+Maintainer: OpenPLi team <info@openpli.org>
+Priority: optional
+Source: enigma2.bb
+OE: enigma2
+License: GPLv2
+
+
+Package: enigma2-plugin-systemplugins-quadpip
+Version: git39+9b356da-r0.1
+Depends: python-core
+Section: base
+Architecture: cortexa15hf-neon-vfpv4
+MD5Sum: ce391aa3250f78e2926968d66cf23589
+Size: 22908
+Filename: enigma2-plugin-systemplugins-quadpip.ipk
+Description: enigma2-plugin-systemplugins-quadpip version gitAUTOINC+9b356da3ab-r0
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+Priority: optional
+Source: enigma2-plugin-systemplugins-quadpip.bb
+OE: enigma2-plugin-systemplugins-quadpip
+License: GPLv2+
+
+
 Package: enigma2-plugin-systemplugins-servicescanupdates
 Version: 1.1
 Depends: enigma2
@@ -1543,6 +1609,86 @@ Filename: enigma2-plugin-systemplugins-service-scan-updates_1.1_all.ipk
 Description: Create bouquets with new services after service scan
 Maintainer: MacDisein
 Priority: optional
+
+
+Package: enigma2-plugin-systemplugins-softwaremanager
+Version: 2.7+git19696+fea507c-r0.0
+Depends: python-twisted-web
+Section: base
+Architecture: h7
+MD5Sum: 6475023be35eaead20ce614f92310a2c
+Size: 42104
+Filename: enigma2-plugin-systemplugins-softwaremanager_2.7_h7.ipk
+Description: systemplugins-softwaremanager
+Maintainer: OpenPLi team <info@openpli.org>
+Priority: optional
+Source: enigma2.bb
+OE: enigma2
+License: GPLv2
+
+
+Package: enigma2-plugin-systemplugins-swapmanager
+Version: 1.0-r3
+Depends: python-shell
+Section: extra
+Architecture: all
+MD5Sum: 1e6c1172fe26354c015edb2cd264a6ec
+Size: 5740
+Filename: enigma2-plugin-systemplugins-swapmanager_1.0-r3_all.ipk
+Description: do swapping, like you want
+Maintainer: www.xtrend-united.de
+Priority: optional
+Homepage: http://www.xtrend-united.de
+OE: enigma2-plugin-systemplugins-swapmanager
+License: GNU GPLv2
+
+
+Package: enigma2-plugin-systemplugins-videoenhancement
+Version: 2.7+git19696+fea507c-r0.0
+Section: base
+Architecture: h7
+MD5Sum: b18cbcdf635645c97d20bc6ca8c4fc9e
+Size: 8040
+Filename: enigma2-plugin-systemplugins-videoenhancement_2.7_h7.ipk
+Description: systemplugins-videoenhancement
+Maintainer: OpenPLi team <info@openpli.org>
+Priority: optional
+Source: enigma2.bb
+OE: enigma2
+License: GPLv2
+
+
+Package: enigma2-plugin-systemplugins-wirelesslan
+Version: 2.7+git19696+fea507c-r0.0
+Depends: python-wifi, wireless-tools, wpa-supplicant
+Section: base
+Architecture: h7
+MD5Sum: 07be882b6e582c5ffbaa86c1338a38cb
+Size: 11022
+Filename: enigma2-plugin-systemplugins-wirelesslan_2.7_h7.ipk
+Description: systemplugins-wirelesslan
+Maintainer: OpenPLi team <info@openpli.org>
+Priority: optional
+Source: enigma2.bb
+OE: enigma2
+License: GPLv2
+
+
+Package: enigma2-plugin-weblinks-2.0-weathercomponenthandler
+Version: eliesat
+Depends: enigma2
+Section: weblinks
+Architecture: all
+MD5Sum: f80b2bfbf090c93c1d8b69d75c4530ce
+Size: 1094
+Filename: enigma2-plugin-weblinks-2.0-weathercomponenthandler_eliesat_all.ipk
+Description: system plugin (recommended)
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
 
 
 Package: enigma2-plugin-weblinks-fullbackup
