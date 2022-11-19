@@ -1089,6 +1089,74 @@ Homepage: https://github.com/digiteng/xtra
 OE: all
 
 
+Package: enigma2-plugin-picons-emu-crypt-prov-sat-1
+Version: white
+Depends: enigma2
+Section: picons
+Architecture: all
+MD5Sum: d08406951b19def89d2cb052a14f8442
+Size: 1264
+Filename: enigma2-plugin-picons-emu-crypt-prov-sat-1_white_all.ipk
+Description: recommended for some skins and raedquicksignal plugin
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-picons-emu-crypt-prov-sat-2
+Version: transparent
+Depends: enigma2
+Section: picons
+Architecture: all
+MD5Sum: fac26d11edd5d7e9b5d42746269ce7e7
+Size: 1282
+Filename: enigma2-plugin-picons-emu-crypt-prov-sat-2_transparent_all.ipk
+Description: recommended for some skins and raedquicksignal plugin
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-picons-emu-crypt-prov-sat-3
+Version: black
+Depends: enigma2
+Section: picons
+Architecture: all
+MD5Sum: 03074783383d1fb6922870fca7e5da15
+Size: 1276
+Filename: enigma2-plugin-picons-emu-crypt-prov-sat-3_black_all.ipk
+Description: recommended for some skins and raedquicksignal plugin
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-picons-emu-crypt-prov-sat-4
+Version: zelda
+Depends: enigma2
+Section: picons
+Architecture: all
+MD5Sum: aca5b5383954f24e732557682382e2eb
+Size: 1278
+Filename: enigma2-plugin-picons-emu-crypt-prov-sat-4_zelda_all.ipk
+Description: recommended for some skins and raedquicksignal plugin
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
 Package: enigma2-plugin-picons-transparent.220x132
 Version: 2022-11-16
 Depends: enigma2
