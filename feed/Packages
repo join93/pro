@@ -292,6 +292,24 @@ OE: enigma2-plugin-extensions-enhancedmoviecenter
 License: open
 
 
+Package: enigma2-plugin-extensions-eparted
+Version: 6.4+git7411+2cc5aa2-r0
+Depends: parted
+Conflicts: eparted
+Replaces: eparted
+Section: base
+Architecture: h7
+MD5Sum: 12333558db0d458aa76bcaa78028a176
+Size: 17000
+Filename: enigma2-plugin-extensions-eparted_6.4+git7411+2cc5aa2-r0_h7.ipk
+Description: extensions-eparted
+Maintainer: OE-Alliance team
+Priority: optional
+Source: enigma2-plugins.bb
+OE: enigma2-plugins
+License: Proprietary
+
+
 Package: enigma2-plugin-extensions-epggrabber
 Version: lv
 Section: extra
@@ -318,6 +336,21 @@ Maintainer: momi133 <moom133@gmail.com>
 Priority: optional
 Source: unknown
 Homepage: unknown
+
+
+Package: enigma2-plugin-extensions-flashexpander
+Version: 6.4+git7411+2cc5aa2-r0
+Section: base
+Architecture: h7
+MD5Sum: af6e6e5b589d86a11579670411eed7ff
+Size: 14044
+Filename: enigma2-plugin-extensions-flashexpander_6.4+git7411+2cc5aa2-r0_h7.ipk
+Description: extensions-flashexpander
+Maintainer: OE-Alliance team
+Priority: optional
+Source: enigma2-plugins.bb
+OE: enigma2-plugins
+License: Proprietary
 
 
 Package: enigma2-plugin-extensions-footonsat
