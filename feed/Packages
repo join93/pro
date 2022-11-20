@@ -1620,8 +1620,8 @@ Package: enigma2-plugin-systemplugins-newvirtualkeyboard
 Version: lv
 Section: extra
 Architecture: all
-MD5Sum: 68fbee772f53433679c6abe22b0952ef
-Size: 810
+MD5Sum: a92f00a4824346f36e37ff294d46d165
+Size: 804
 Filename: enigma2-plugin-systemplugins-newvirtualkeyboard_lv_all.ipk
 Description: newvirtualkeyboard
 Maintainer: unlnown
