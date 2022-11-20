@@ -1616,6 +1616,20 @@ OE: enigma2
 License: GPLv2
 
 
+Package: enigma2-plugin-systemplugins-newvirtualkeyboard
+Version: lv
+Section: extra
+Architecture: all
+MD5Sum: 68fbee772f53433679c6abe22b0952ef
+Size: 810
+Filename: enigma2-plugin-systemplugins-newvirtualkeyboard_lv_all.ipk
+Description: newvirtualkeyboard
+Maintainer: unlnown
+Priority: optional
+Source: unknown
+Homepage: unknowns
+
+
 Package: enigma2-plugin-systemplugins-quadpip
 Version: git39+9b356da-r0.1
 Depends: python-core
@@ -1706,23 +1720,6 @@ Priority: optional
 Source: enigma2.bb
 OE: enigma2
 License: GPLv2
-
-
-Package: enigma2-plugin-weblinks-2.0-weathercomponenthandler
-Version: eliesat
-Depends: enigma2
-Section: weblinks
-Architecture: all
-MD5Sum: f80b2bfbf090c93c1d8b69d75c4530ce
-Size: 1094
-Filename: enigma2-plugin-weblinks-2.0-weathercomponenthandler_eliesat_all.ipk
-Description: system plugin (recommended)
-Maintainer: eliesat
-Priority: optional
-Source: none
-Homepage: unknown
-OE: enigma2
-License: none
 
 
 Package: enigma2-plugin-weblinks-fullbackup
