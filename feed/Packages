@@ -1303,6 +1303,23 @@ OE: enigma2
 License: none
 
 
+Package: enigma2-plugin-skins-beta-pro-fhd-xe
+Version: 1.5
+Depends: enigma2
+Section: skins
+Architecture: all
+MD5Sum: 0c29da251036ee234c61ce0cf6c498a6
+Size: 6678640
+Filename: enigma2-plugin-skins-beta-pro-fhd-xe_1.5_all.ipk
+Description: uploaded by eliesat
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
 Package: enigma2-plugin-skins-bohlala-fhd
 Version: 2.0
 Depends: enigma2
