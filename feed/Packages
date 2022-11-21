@@ -1371,14 +1371,14 @@ OE: enigma2
 License: none
 
 
-Package: enigma2-plugin-skins-novax-fhd
+Package: enigma2-plugin-skins-novax-fhd-px
 Version: 1.4
 Depends: enigma2
 Section: base
 Architecture: all
-MD5Sum: db6cd570993db3b7837942728a6f1827
-Size: 1038
-Filename: enigma2-plugin-skins-novax-fhd_1.4_all.ipk
+MD5Sum: f1eaae9733a2dec09e5af77c71a8185c
+Size: 1040
+Filename: enigma2-plugin-skins-novax-fhd-px_1.4_all.ipk
 Description: uploaded by eliesat
 Maintainer: eliesat
 Priority: optional
