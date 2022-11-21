@@ -1632,6 +1632,20 @@ OE: enigma2
 License: GPLv2
 
 
+Package: enigma2-plugin-systemplugins-newvirtualkeyboard-subs
+Version: lv
+Section: extra
+Architecture: all
+MD5Sum: 6b90ef0ed69a5686bb1830326b9cd99e
+Size: 788
+Filename: enigma2-plugin-systemplugins-newvirtualkeyboard-subs_lv_all.ipk
+Description: newvirtualkeyboard subssupport addon
+Maintainer: unlnown
+Priority: optional
+Source: unknown
+Homepage: unknowns
+
+
 Package: enigma2-plugin-systemplugins-newvirtualkeyboard
 Version: lv
 Section: extra
