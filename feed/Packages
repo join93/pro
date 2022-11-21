@@ -1550,6 +1550,22 @@ Source: https://github.com/MOHAMED19OS
 License: open
 
 
+Package: enigma2-plugin-systemplugins-autoresolution
+Version: z-git5246+e6d7678-r0.0
+Depends: enigma2-plugins
+Section: base
+Architecture: cortexa15hf-neon-vfpv4
+MD5Sum: fd589bf857373a7070fa384544cc5cd4
+Size: 20794
+Filename: enigma2-plugin-systemplugins-autoresolution.ipk
+Description: systemplugins-autoresolution
+Maintainer: OpenPLi team <info@openpli.org>
+Priority: optional
+Source: enigma2-plugins.bb
+OE: enigma2-plugins
+License: Proprietary
+
+
 Package: enigma2-plugin-systemplugins-bouquetsprotection
 Version: 0.2-rc1
 Depends: enigma2
@@ -1704,6 +1720,23 @@ Priority: optional
 Source: enigma2.bb
 OE: enigma2
 License: GPLv2
+
+
+Package: enigma2-plugin-systemplugins-weathercomponenthandler
+Version: 3.0
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: e99d0df2e6ebeb957b4a4e695463bd3b
+Size: 1090
+Filename: enigma2-plugin-systemplugins-weathercomponenthandler_3.0_all.ipk
+Description: system plugin (recommended)
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
 
 
 Package: enigma2-plugin-systemplugins-wirelesslan
