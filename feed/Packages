@@ -1271,6 +1271,23 @@ OE: enigma2-plugin-settings-morpheus883-motor
 License: Proprietary
 
 
+Package: enigma2-plugin-settings-satellites.xml
+Version: 1
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: cc4f3fec17f915726f59fcbb443bcb9a
+Size: 794
+Filename: enigma2-plugin-settings-satellites.xml_1_all.ipk
+Description: satellites frequencies file with lebanese terrestrial broadcast system by (eliesat)
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
 Package: enigma2-plugin-settings-vhannibal.motor
 Version: 1.0+git6605+783e046_r0
 Section: base
