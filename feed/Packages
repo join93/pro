@@ -1388,6 +1388,40 @@ OE: enigma2
 License: none
 
 
+Package: enigma2-plugin-skins-octagon-eight-fhd-px
+Version: mod-mn
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 3300c7337a76c0b821a933bd092b48c8
+Size: 1052
+Filename: enigma2-plugin-skins-octagon-eight-fhd-px_mod-mn_all.ipk
+Description: uploaded by eliesat
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-skins-red-dragonfhd
+Version: 2.0
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 336941a59a535b796f984fd63298ec3a
+Size: 1152
+Filename: enigma2-plugin-skins-red-dragonfhd_2.0_all - Copy.ipk
+Description: uploaded by eliesat
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
 Package: enigma2-plugin-skins-red-dragonfhd
 Version: 2.0
 Depends: enigma2
@@ -1396,6 +1430,23 @@ Architecture: all
 MD5Sum: 336941a59a535b796f984fd63298ec3a
 Size: 1152
 Filename: enigma2-plugin-skins-red-dragonfhd_2.0_all.ipk
+Description: uploaded by eliesat
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-skins-smartlite-fhd-px
+Version: mod-mn
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 8802f1bfb05e85ffcec4782001e6f510
+Size: 1050
+Filename: enigma2-plugin-skins-smartlite-fhd-px_mod-mn_all.ipk
 Description: uploaded by eliesat
 Maintainer: eliesat
 Priority: optional
