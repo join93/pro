@@ -2910,7 +2910,7 @@
 		<transponder fec_inner="3" frequency="12476000" modulation="1" polarization="0" symbol_rate="27500000" system="0" />
 		<transponder fec_inner="3" frequency="12476000" modulation="2" polarization="3" symbol_rate="27500000" system="1" />
 		<transponder fec_inner="2" frequency="12510000" modulation="2" polarization="0" symbol_rate="3333000" system="1" />
-		<transponder fec_inner="4" frequency="12532000" modulation="2" polarization="0" symbol_rate="1110000" system="1" />
+		<transponder fec_inner="4" frequency="12540000" modulation="2" polarization="0" symbol_rate="15670000" system="1" />
 		<transponder fec_inner="4" frequency="12554000" modulation="1" polarization="1" symbol_rate="2500000" system="1" />
 		<transponder fec_inner="4" frequency="12556000" modulation="2" polarization="1" symbol_rate="2020000" system="1" />
 		<transponder fec_inner="0" frequency="12563000" modulation="2" polarization="0" symbol_rate="15666000" system="1" />
