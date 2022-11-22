@@ -1354,6 +1354,40 @@ OE: enigma2
 License: none
 
 
+Package: enigma2-plugin-skins-novaler-s-fhd-px
+Version: green
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: bb5369334bb7c1b78854d1be1ef27391
+Size: 1052
+Filename: enigma2-plugin-skins-novaler-s-fhd-px_green_all.ipk
+Description: uploaded by eliesat
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-skins-novaler-s-fhd-xe
+Version: green
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 623bb2d2de17e2628f4505d51fb4ff9c
+Size: 1052
+Filename: enigma2-plugin-skins-novaler-s-fhd-xe_green_all.ipk
+Description: uploaded by eliesat
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
 Package: enigma2-plugin-skins-novax-fhd-mauve-px
 Version: 1.4
 Depends: enigma2
