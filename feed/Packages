@@ -1288,6 +1288,57 @@ OE: enigma2
 License: none
 
 
+Package: enigma2-plugin-settings-satellites.xml
+Version: 2
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: fddeaa4ce02a42411865ee4c75fda1ea
+Size: 768
+Filename: enigma2-plugin-settings-satellites.xml_2_all.ipk
+Description: satellites frequencies file by (eliesat)
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-settings-satellites.xml
+Version: 3
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: ecc99f268b417870f83090774b0a50b4
+Size: 780
+Filename: enigma2-plugin-settings-satellites.xml_3_all.ipk
+Description: satellites frequencies file by (oe-alliance)
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-settings-satellites.xml
+Version: 4
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 6dc14824faec9600592f164d5670085f
+Size: 776
+Filename: enigma2-plugin-settings-satellites.xml_4_all.ipk
+Description: satellites frequencies file by (openpli)
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
 Package: enigma2-plugin-settings-vhannibal.motor
 Version: 1.0+git6605+783e046_r0
 Section: base
