@@ -1271,14 +1271,14 @@ OE: enigma2-plugin-settings-morpheus883-motor
 License: Proprietary
 
 
-Package: enigma2-plugin-settings-satellites.xml
-Version: 1
+Package: enigma2-plugin-settings-satellites.xml-1
+Version: eliesat
 Depends: enigma2
 Section: base
 Architecture: all
-MD5Sum: cc4f3fec17f915726f59fcbb443bcb9a
+MD5Sum: 2fbef114c684f6aa9344628ad3d02812
 Size: 794
-Filename: enigma2-plugin-settings-satellites.xml_1_all.ipk
+Filename: enigma2-plugin-settings-satellites.xml-1_eliesat_all.ipk
 Description: satellites frequencies file with lebanese terrestrial broadcast system by (eliesat)
 Maintainer: eliesat
 Priority: optional
@@ -1288,14 +1288,14 @@ OE: enigma2
 License: none
 
 
-Package: enigma2-plugin-settings-satellites.xml
-Version: 2
+Package: enigma2-plugin-settings-satellites.xml-2
+Version: eliesat
 Depends: enigma2
 Section: base
 Architecture: all
-MD5Sum: fddeaa4ce02a42411865ee4c75fda1ea
-Size: 768
-Filename: enigma2-plugin-settings-satellites.xml_2_all.ipk
+MD5Sum: d8d205b5b851bee8e01e70b776ac8d01
+Size: 770
+Filename: enigma2-plugin-settings-satellites.xml-2_eliesat_all.ipk
 Description: satellites frequencies file by (eliesat)
 Maintainer: eliesat
 Priority: optional
@@ -1305,14 +1305,14 @@ OE: enigma2
 License: none
 
 
-Package: enigma2-plugin-settings-satellites.xml
-Version: 3
+Package: enigma2-plugin-settings-satellites.xml-3
+Version: oe-alliance
 Depends: enigma2
 Section: base
 Architecture: all
-MD5Sum: ecc99f268b417870f83090774b0a50b4
-Size: 780
-Filename: enigma2-plugin-settings-satellites.xml_3_all.ipk
+MD5Sum: 6180b8ad8e66a903143f1778ceb36fc9
+Size: 782
+Filename: enigma2-plugin-settings-satellites.xml-3_oe-alliance_all.ipk
 Description: satellites frequencies file by (oe-alliance)
 Maintainer: eliesat
 Priority: optional
@@ -1322,14 +1322,14 @@ OE: enigma2
 License: none
 
 
-Package: enigma2-plugin-settings-satellites.xml
-Version: 4
+Package: enigma2-plugin-settings-satellites.xml-4
+Version: openpli
 Depends: enigma2
 Section: base
 Architecture: all
-MD5Sum: 6dc14824faec9600592f164d5670085f
-Size: 776
-Filename: enigma2-plugin-settings-satellites.xml_4_all.ipk
+MD5Sum: 7b6d9ad4b142dcbeeb55abd9bc772a92
+Size: 778
+Filename: enigma2-plugin-settings-satellites.xml-4_openpli_all.ipk
 Description: satellites frequencies file by (openpli)
 Maintainer: eliesat
 Priority: optional
