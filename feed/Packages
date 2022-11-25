@@ -1371,14 +1371,14 @@ OE: enigma2
 License: none
 
 
-Package: enigma2-plugin-skins-batman-fhd-px
+Package: enigma2-plugin-skins-batman-px
 Version: vpx
 Depends: enigma2
 Section: base
 Architecture: all
-MD5Sum: e1c8a51e166348b65c3893d2711dd62c
-Size: 1044
-Filename: enigma2-plugin-skins-batman-fhd-px_vpx_all.ipk
+MD5Sum: b3245389b92c5dc4bee14474cdf0d620
+Size: 1042
+Filename: enigma2-plugin-skins-batman-px_vpx_all.ipk
 Description: uploaded by eliesat
 Maintainer: eliesat
 Priority: optional
