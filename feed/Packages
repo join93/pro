@@ -1354,6 +1354,40 @@ OE: enigma2-plugin-settings-vhannibal.motor
 License: Proprietary
 
 
+Package: enigma2-plugin-skins-batman-fhd-px
+Version: vpx2
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 64983e202281aa35d8fe32c732035024
+Size: 1046
+Filename: enigma2-plugin-skins-batman-fhd-px_vpx2_all.ipk
+Description: uploaded by eliesat
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-skins-batman-fhd-px
+Version: vpx
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: e1c8a51e166348b65c3893d2711dd62c
+Size: 1044
+Filename: enigma2-plugin-skins-batman-fhd-px_vpx_all.ipk
+Description: uploaded by eliesat
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
 Package: enigma2-plugin-skins-beta-pro-fhd-px
 Version: 1.5
 Depends: enigma2
