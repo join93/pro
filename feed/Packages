@@ -221,8 +221,8 @@ Package: enigma2-plugin-extensions-crondmanager
 Version: r1.3
 Section: extra
 Architecture: all
-MD5Sum: 5445e6581b8a9730d03f406b570d6229
-Size: 906190
+MD5Sum: 4ec01582df136a30c1e04e84d5b305b9
+Size: 905570
 Filename: enigma2-plugin-extensions-crondmanager_r1.3_all.ipk
 Description: Crondmanager Plugin for dreambox
 Maintainer: <mfaraj57mfaraj57@gmail.com>
