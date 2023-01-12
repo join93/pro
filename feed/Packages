@@ -79,13 +79,13 @@ License: none
 
 
 Package: enigma2-plugin-extensions-ajpanel
-Version: v7.4.0
+Version: v8.4.0
 Depends: enigma2
 Section: base
 Architecture: all
-MD5Sum: feabdc59627563f59956e7ee152fdaf5
-Size: 294546
-Filename: enigma2-plugin-extensions-ajpanel_v7.4.0_all.ipk
+MD5Sum: 249eb02d1f1282bee0d113e2c991e0cb
+Size: 325888
+Filename: enigma2-plugin-extensions-ajpanel_v8.4.0_all.ipk
 Description: Enigma2 Tools
 Maintainer: AMA-Jamry
 Priority: optional
@@ -218,15 +218,14 @@ License: GPLv3
 
 
 Package: enigma2-plugin-extensions-crondmanager
-Version: 20181209-r1.3
-Depends: 
+Version: r1.3
 Section: extra
 Architecture: all
-MD5Sum: 6a8cbcc22af7e2a0ec9c6fdc2df192a8
-Size: 904578
-Filename: enigma2-plugin-extensions-crondmanager_20181209-r1.3_all.ipk
+MD5Sum: 5445e6581b8a9730d03f406b570d6229
+Size: 906190
+Filename: enigma2-plugin-extensions-crondmanager_r1.3_all.ipk
 Description: Crondmanager Plugin for dreambox
-Maintainer: mfaraj57<mfaraj57@gmail.com>
+Maintainer: <mfaraj57mfaraj57@gmail.com>
 Priority: optional
 Source: http:/mfaraj.net
 Homepage: http:/mfaraj.net
