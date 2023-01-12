@@ -233,17 +233,17 @@ OE: enigma2
 
 
 Package: enigma2-plugin-extensions-dreamsatpanel
-Version: 1.3
-Depends: 
+Version: 1.5
 Section: extra
 Architecture: all
-MD5Sum: f4d86d853536fb8152779657ab326c89
-Size: 2104
-Filename: enigma2-plugin-extensions-dreamsatpanel_1.3_all.ipk
+MD5Sum: 38e3f6ae50c66403e2d7e08588b31b94
+Size: 914
+Filename: enigma2-plugin-extensions-dreamsatpanel_1.5_all.ipk
 Description: DreamSatPanel All You Need
 Maintainer: LINUXSAT
 Priority: optional
 Source: 
+Homepage: 
 
 
 Package: enigma2-plugin-extensions-e2iplayer
