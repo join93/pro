@@ -689,38 +689,6 @@ License: none
 
 
 Package: enigma2-plugin-extensions-neoboot
-Version: 9.26
-Depends: 
-Section: extra
-Architecture: all
-MD5Sum: fe8e9b8066b5272332d6578c6710f58d
-Size: 5028376
-Filename: enigma2-plugin-extensions-neoboot_9.26_all.ipk
-Description: enigma2-plugin-NeoBoot
-Maintainer: Docea37  <www.dreamosat-forum.com>
-Priority: optional
-Source: https://dreamosat-forum.com
-OE: NeoBoot
-
-
-Package: enigma2-plugin-extensions-neoboot
-Version: v9.54
-Depends: enigma2
-Section: base
-Architecture: all
-MD5Sum: c01714797c09ffd32214b6d50f0cc48e
-Size: 6442444
-Filename: enigma2-plugin-extensions-neoboot_v9.54_all.ipk
-Description: NeoBoot
-Maintainer: linuxsat
-Priority: optional
-Source: none
-Homepage: unknown
-OE: enigma2
-License: none
-
-
-Package: enigma2-plugin-extensions-neoboot
 Version: v9.58-r3-reboot
 Depends: enigma2
 Section: base
