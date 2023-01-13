@@ -2047,8 +2047,8 @@ Version: hide-show
 Depends: enigma2
 Section: base
 Architecture: all
-MD5Sum: f09abc2cf3aff02f0a83a9e434a502e9
-Size: 606
+MD5Sum: 979127cbd0f765c1ea8acf2110abd10b
+Size: 804
 Filename: enigma2-plugin-weblinks-feed-eliesat_hide-show_all.ipk
 Description: hide and show eliesat feed (by eliesat)
 Maintainer: eliesat
