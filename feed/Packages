@@ -531,8 +531,8 @@ Version: feed
 Depends: enigma2
 Section: base
 Architecture: all
-MD5Sum: 8d97d69a2249b1ac99945f770c44df3a
-Size: 872
+MD5Sum: 74d544a9eb13c3993981b03b2f364fba
+Size: 864
 Filename: enigma2-plugin-extensions-jungle_feed_all.ipk
 Description: add jungle team feed to your feeds
 Maintainer: jungle team
