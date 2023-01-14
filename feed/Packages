@@ -526,6 +526,23 @@ Priority: optional
 Source: https://github.com/ziko-ZR1/IPtoSAT
 
 
+Package: enigma2-plugin-extensions-jungle
+Version: feed
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 8d97d69a2249b1ac99945f770c44df3a
+Size: 872
+Filename: enigma2-plugin-extensions-jungle_feed_all.ipk
+Description: add jungle team feed to your feeds
+Maintainer: jungle team
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
 Package: enigma2-plugin-extensions-keyadder
 Version: 5.9
 Section: extra
@@ -2047,8 +2064,8 @@ Version: hide-show
 Depends: enigma2
 Section: base
 Architecture: all
-MD5Sum: 979127cbd0f765c1ea8acf2110abd10b
-Size: 804
+MD5Sum: a36560dfb9c26e60c039b762e94f1aa2
+Size: 806
 Filename: enigma2-plugin-weblinks-feed-eliesat_hide-show_all.ipk
 Description: hide and show eliesat feed (by eliesat)
 Maintainer: eliesat
@@ -2064,10 +2081,27 @@ Version: hide-show
 Depends: enigma2
 Section: base
 Architecture: all
-MD5Sum: 6da88d9bab6f73dc6c5635d289b54797
-Size: 826
+MD5Sum: 4156b44ad28566c8c48f5e9eb533927a
+Size: 848
 Filename: enigma2-plugin-weblinks-feed-image_hide-show_all.ipk
 Description: hide and show image feeds (by eliesat)
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-weblinks-feed-jungle
+Version: hide-show
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 5960e9912238614420bbfe18e9f8db17
+Size: 804
+Filename: enigma2-plugin-weblinks-feed-jungle_hide-show_all.ipk
+Description: hide and show jungle feed (by eliesat)
 Maintainer: eliesat
 Priority: optional
 Source: none
