@@ -1112,16 +1112,17 @@ Homepage: https://linuxsat-support.com
 
 
 Package: enigma2-plugin-extensions-xstreamity
-Version: 3.80.20221106
+Version: 3.89
 Section: misc
 Architecture: all
-MD5Sum: 2f23c176fd9830fd37472217b4ecb05f
-Size: 2547898
-Filename: enigma2-plugin-extensions-xstreamity_3.80_all.ipk
+MD5Sum: fd27b468f2c27530bb49bf1570728ba8
+Size: 525206
+Filename: enigma2-plugin-extensions-xstreamity_3.89_all.ipk
 Description: IPTV Xtream Codes/XUI One playlists player by KiddaC
 Maintainer: kiddac
 Priority: optional
 Source: 
+Homepage: 
 
 
 Package: enigma2-plugin-extensions-xtraevent
