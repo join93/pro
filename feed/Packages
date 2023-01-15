@@ -485,17 +485,20 @@ License: open
 
 
 Package: enigma2-plugin-extensions-ipaudio
-Version: lv
-Section: extra
+Version: latest-version
+Depends: enigma2
+Section: weblinks
 Architecture: all
-MD5Sum: 979c1fe8911e80b966c93fdc593aed43
-Size: 802
-Filename: enigma2-plugin-extensions-ipaudio_lv_all.ipk
-Description: ipaudio
-Maintainer: unlnown
+MD5Sum: 9f8e1a1ff854f92bfe52923fc32dfba9
+Size: 1402
+Filename: enigma2-plugin-extensions-ipaudio_latest-version_all.ipk
+Description: listen to your favorite commentors
+Maintainer: eliesat
 Priority: optional
-Source: unknown
-Homepage: unknowns
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
 
 
 Package: enigma2-plugin-extensions-ipchecker
