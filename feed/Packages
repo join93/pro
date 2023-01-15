@@ -125,12 +125,12 @@ License: none
 
 
 Package: enigma2-plugin-extensions-athantimes
-Version: 2.2
+Version: 2.6
 Section: external
 Architecture: all
-MD5Sum: 810c043fd81d43061de201bcbbd0be01
-Size: 4838416
-Filename: enigma2-plugin-extensions-athantimes_2.2_all.ipk
+MD5Sum: 160861637f829cdef7b6294c060b82f9
+Size: 3097876
+Filename: enigma2-plugin-extensions-athantimes_2.6_all.ipk
 Description: athantimes-by-aime-jeux
 Maintainer: AbouYacine
 Priority: optional
