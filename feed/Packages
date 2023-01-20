@@ -529,6 +529,19 @@ Priority: optional
 Source: https://github.com/ziko-ZR1/IPtoSAT
 
 
+Package: enigma2-plugin-extensions-jedimakerxtream
+Version: 6.22.20230118
+Section: misc
+Architecture: all
+MD5Sum: 4e34186fbbeaa5d813b9dcba744686ad
+Size: 1854890
+Filename: enigma2-plugin-extensions-jedimakerxtream_6.22_all.ipk
+Description: Jedi Maker Xtream
+Maintainer: kiddac
+Priority: optional
+Source: 
+
+
 Package: enigma2-plugin-extensions-jungle
 Version: feed
 Depends: enigma2
@@ -649,20 +662,6 @@ Priority: optional
 Source: http://h52tc.com
 
 
-Package: enigma2-plugin-extensions-multi-stalker
-Version: lv
-Section: extra
-Architecture: all
-MD5Sum: 91c71dee5355e2c66ad1539b303ba1f9
-Size: 808
-Filename: enigma2-plugin-extensions-multi-stalker_lv_all.ipk
-Description: multi-stalker
-Maintainer: unlnown
-Priority: optional
-Source: unknown
-Homepage: unknowns
-
-
 Package: enigma2-plugin-extensions-multiboot-flashonline
 Version: 6.6
 Section: enigma2
@@ -675,6 +674,20 @@ Maintainer: madhouse
 Priority: optional
 Source: https://github.com/m4dhouse
 OE: Enigma2 Plugin
+
+
+Package: enigma2-plugin-extensions-multistalker
+Version: 1.5
+Section: misc
+Architecture: all
+MD5Sum: 588ca6450e8c298554302cae08c9b363
+Size: 1954
+Filename: enigma2-plugin-extensions-multistalker_1.5_all.ipk
+Description: iptv portals player
+Maintainer: ziko
+Priority: optional
+Source: 
+Homepage: 
 
 
 Package: enigma2-plugin-extensions-ncamstatus
@@ -1132,17 +1145,16 @@ Homepage: https://linuxsat-support.com
 
 
 Package: enigma2-plugin-extensions-xstreamity
-Version: 3.89
+Version: 3.90.20230118
 Section: misc
 Architecture: all
-MD5Sum: fd27b468f2c27530bb49bf1570728ba8
-Size: 525206
-Filename: enigma2-plugin-extensions-xstreamity_3.89_all.ipk
+MD5Sum: c3148f48064566cdeb37f5f78d8a5578
+Size: 2549616
+Filename: enigma2-plugin-extensions-xstreamity_3.90_all.ipk
 Description: IPTV Xtream Codes/XUI One playlists player by KiddaC
 Maintainer: kiddac
 Priority: optional
 Source: 
-Homepage: 
 
 
 Package: enigma2-plugin-extensions-xtraevent
@@ -2136,10 +2148,10 @@ Version: openpli
 Depends: enigma2
 Section: base
 Architecture: all
-MD5Sum: 5c99b4709b5399370b14ef5708969ac1
-Size: 1012
+MD5Sum: f3d04e1d3f5aba9fa1b724b7c9532bd7
+Size: 78500810
 Filename: enigma2-plugin-weblinks-fullbackup_openpli_all.ipk
-Description: install full backup to your stb
+Description: install full backup to your stb (17-1-2023)
 Maintainer: eliesat
 Priority: optional
 Source: none
