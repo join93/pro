@@ -46,6 +46,7 @@ sleep 10s
    opkg install f4mdump
    opkg install rtmpdump
    opkg install hlsdl
+   opkg install alsa-utils-aplay
    wget https://gitfront.io/r/eliesat/5mUCVmjzCfHR/eliesat/raw/astra-sm/installer.sh -O - | /bin/sh
 
 if [ "$PYTHON_VERSION" -eq 3 ]; then
