@@ -353,16 +353,17 @@ License: Proprietary
 
 
 Package: enigma2-plugin-extensions-footonsat
-Version: 1.6
+Version: 1.7
 Section: base
 Architecture: all
-MD5Sum: 04c90eaa3e86d8f06ad5def4a950e2d0
-Size: 4620674
-Filename: enigma2-plugin-extensions-footonsat_1.6.ipk
+MD5Sum: 1c247b2e720a7cad1e4b22001120d8b5
+Size: 4459810
+Filename: enigma2-plugin-extensions-footonsat_1.7_all.ipk
 Description: enigma2 plugin OE2.0 OE2.5
 Maintainer: ziko & redouane
 Priority: optional
 Source: https://github.com/ziko-ZR1/FootOnsat
+Homepage: 
 
 
 Package: enigma2-plugin-extensions-foreca
@@ -1692,6 +1693,20 @@ Source: none
 Homepage: unknown
 OE: enigma2
 License: none
+
+
+Package: enigma2-plugin-skins-teamnitro-control-centre
+Version: 2.0
+Section: base
+Architecture: all
+MD5Sum: 4f6ccc30dc063cf0d702c18434ed38bf
+Size: 3127520
+Filename: enigma2-plugin-skins-teamnitro-control-centre_2.0_all.ipk
+Description: nitro skins downloader and control
+Maintainer: kimoo and bahaa
+Priority: optional
+Source: 
+Homepage: 
 
 
 Package: enigma2-plugin-softcams-gosatplus-ncam
