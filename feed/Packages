@@ -705,6 +705,23 @@ Source: *
 Homepage: *
 
 
+Package: enigma2-plugin-extensions-neoboot-gutosie
+Version: 9.65
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: c112d097b989f3bacd5cdacb856f43af
+Size: 892
+Filename: enigma2-plugin-extensions-neoboot-gutosie_9.65_all.ipk
+Description: neoboot mod linuxsat
+Maintainer: gutosie
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
 Package: enigma2-plugin-extensions-neoboot-pro
 Version: v9.54
 Depends: enigma2
@@ -2150,23 +2167,6 @@ MD5Sum: 5960e9912238614420bbfe18e9f8db17
 Size: 804
 Filename: enigma2-plugin-weblinks-feed-jungle_hide-show_all.ipk
 Description: hide and show jungle feed (by eliesat)
-Maintainer: eliesat
-Priority: optional
-Source: none
-Homepage: unknown
-OE: enigma2
-License: none
-
-
-Package: enigma2-plugin-weblinks-fullbackup
-Version: openpli
-Depends: enigma2
-Section: base
-Architecture: all
-MD5Sum: f3d04e1d3f5aba9fa1b724b7c9532bd7
-Size: 78500810
-Filename: enigma2-plugin-weblinks-fullbackup_openpli_all.ipk
-Description: install full backup to your stb (17-1-2023)
 Maintainer: eliesat
 Priority: optional
 Source: none
