@@ -1726,6 +1726,21 @@ Source:
 Homepage: 
 
 
+Package: enigma2-plugin-softcams-gosatplus-ncam
+Version: 13.5-r0
+Depends: libcurl4
+Section: misc
+Architecture: all
+MD5Sum: cef0e365897e40ebdaed0f18fb04a482
+Size: 4203404
+Filename: enigma2-plugin-softcams-gosatplus-ncam_13.5-r0_all.ipk
+Description: GosatPlus_NCam to all images OE2.0 OE2.5/2.6 (Patched and Build by MOHAMED_OS)
+Maintainer: MOHAMED_OS (mohamed19eng@gmail.com)
+Priority: optional
+Source: https://github.com/MOHAMED19OS
+License: open
+
+
 Package: enigma2-plugin-softcams-gosatplus-oscam
 Version: 11718-emu-r798
 Depends: libcurl4
@@ -1739,6 +1754,187 @@ Maintainer: MOHAMED_OS (mohamed19eng@gmail.com)
 Priority: optional
 Source: https://github.com/MOHAMED19OS
 License: open
+
+
+Package: enigma2-plugin-softcams-ncam
+Version: 13.5-r0
+Depends: libcurl4
+Section: misc
+Architecture: all
+MD5Sum: 1f9d47c12a72b399b53758e378c703f8
+Size: 4205964
+Filename: enigma2-plugin-softcams-ncam_13.5-r0_all.ipk
+Description: NCam to all images OE2.0 OE2.5/2.6 (Patched and Build by MOHAMED_OS)
+Maintainer: MOHAMED_OS (mohamed19eng@gmail.com)
+Priority: optional
+Source: https://github.com/MOHAMED19OS
+License: open
+
+
+Package: enigma2-plugin-softcams-oscamicam
+Version: 11.718-emu-r798
+Depends: libcurl4
+Section: misc
+Architecture: all
+MD5Sum: 09159d141daed1d6d7999213b63bcffe
+Size: 3002486
+Filename: enigma2-plugin-softcams-oscamicam_11.718-emu-r798_all.ipk
+Description: oscamicam to all images OE2.0 OE2.5/2.6 (Patched and Build by LINUXSAT25)
+Maintainer: LINUXSAT25 (vastsat@hotmail.fr)
+Priority: optional
+Source: linuxsat
+License: open
+
+
+Package: enigma2-plugin-softcams-oscam
+Version: 11718-emu-r798
+Depends: libcurl4
+Section: misc
+Architecture: all
+MD5Sum: e0e2a318674c1e184f22591f7ba82439
+Size: 4046504
+Filename: enigma2-plugin-softcams-oscam_11718-emu-r798_all.ipk
+Description: OSCam to all images OE2.0 OE2.5/2.6 (Patched and Build by MOHAMED_OS)
+Maintainer: MOHAMED_OS (mohamed19eng@gmail.com)
+Priority: optional
+Source: https://github.com/MOHAMED19OS
+License: open
+
+
+Package: enigma2-plugin-softcams-powercam-ncam
+Version: 13.5-r0
+Depends: libcurl4
+Section: misc
+Architecture: all
+MD5Sum: 3be20feb85b936e5cbd53c496503f165
+Size: 4218816
+Filename: enigma2-plugin-softcams-powercam-ncam_13.5-r0_all.ipk
+Description: PowerCam_NCam to all images OE2.0 OE2.5/2.6 (Patched and Build by MOHAMED_OS)
+Maintainer: MOHAMED_OS (mohamed19eng@gmail.com)
+Priority: optional
+Source: https://github.com/MOHAMED19OS
+License: open
+
+
+Package: enigma2-plugin-softcams-powercam-oscam
+Version: 11718-emu-r798
+Depends: libcurl4
+Section: misc
+Architecture: all
+MD5Sum: e247c8fef2ad8291577cea98c25d7c49
+Size: 4059500
+Filename: enigma2-plugin-softcams-powercam-oscam_11718-emu-r798_all.ipk
+Description: PowerCam_OSCam to all images OE2.0 OE2.5/2.6 (Patched and Build by MOHAMED_OS)
+Maintainer: MOHAMED_OS (mohamed19eng@gmail.com)
+Priority: optional
+Source: https://github.com/MOHAMED19OS
+License: open
+
+
+Package: enigma2-plugin-softcams-powercam
+Version: 2.0
+Section: misc
+Architecture: all
+MD5Sum: e7e6688a04f476a188ecb486851d870a
+Size: 810036
+Filename: enigma2-plugin-softcams-powercam_2.0_all.ipk
+Description: PowerCam to all images OE2.0 OE2.5/2.6 (Patched and Build by MOHAMED_OS)
+Maintainer: MOHAMED_OS (mohamed19eng@gmail.com)
+Priority: optional
+Source: https://github.com/MOHAMED19OS
+License: open
+
+
+Package: enigma2-plugin-softcams-revcam-ncam
+Version: 13.5-r0
+Depends: libcurl4
+Section: misc
+Architecture: all
+MD5Sum: 391b19c39c4eeacaa85822638a1322a0
+Size: 4218842
+Filename: enigma2-plugin-softcams-revcam-ncam_13.5-r0_all.ipk
+Description: RevCam_NCam to all images OE2.0 OE2.5/2.6 (Patched and Build by MOHAMED_OS)
+Maintainer: MOHAMED_OS (mohamed19eng@gmail.com)
+Priority: optional
+Source: https://github.com/MOHAMED19OS
+License: open
+
+
+Package: enigma2-plugin-softcams-revcam-oscam
+Version: 11718-emu-r798
+Depends: libcurl4
+Section: misc
+Architecture: all
+MD5Sum: a386ec5c54b14ca29c34f076e9e015e6
+Size: 4059546
+Filename: enigma2-plugin-softcams-revcam-oscam_11718-emu-r798_all.ipk
+Description: RevCam_OSCam to all images OE2.0 OE2.5/2.6 (Patched and Build by MOHAMED_OS)
+Maintainer: MOHAMED_OS (mohamed19eng@gmail.com)
+Priority: optional
+Source: https://github.com/MOHAMED19OS
+License: open
+
+
+Package: enigma2-plugin-softcams-revcam
+Version: 2.0
+Depends: libcurl4
+Section: misc
+Architecture: all
+MD5Sum: 40f9c40ea02dc84ef36ce3c73bd91be8
+Size: 372898
+Filename: enigma2-plugin-softcams-revcam_2.0_all.ipk
+Description: RevCam to all images OE2.0 OE2.5/2.6 (Patched and Build by MOHAMED_OS)
+Maintainer: MOHAMED_OS (mohamed19eng@gmail.com)
+Priority: optional
+Source: https://github.com/MOHAMED19OS
+License: open
+
+
+Package: enigma2-plugin-softcams-supcam-ncam
+Version: 13.5-r0
+Depends: libcurl4
+Section: misc
+Architecture: all
+MD5Sum: 6282822f7146f6fee0c755e95d41341b
+Size: 4203494
+Filename: enigma2-plugin-softcams-supcam-ncam_13.5-r0_all.ipk
+Description: SupCam_NCam to all images OE2.0 OE2.5/2.6 (Patched and Build by MOHAMED_OS)
+Maintainer: MOHAMED_OS (mohamed19eng@gmail.com)
+Priority: optional
+Source: https://github.com/MOHAMED19OS
+License: open
+
+
+Package: enigma2-plugin-softcams-supcam-oscam
+Version: 11.718-emu-r798
+Depends: libcurl4
+Section: misc
+Architecture: all
+MD5Sum: 47790f1ff1e65133e2611f62ddf66d6b
+Size: 2998478
+Filename: enigma2-plugin-softcams-supcam-oscam_11.718-emu-r798_all.ipk
+Description: Supcam_OSCam to all images OE2.0 (Patched and Build by LINUXSAT25)
+Maintainer: LINUXSAT25 (vastsat@hotmail.fr)
+Priority: optional
+Source: LINUXSAT25
+License: open
+
+
+Package: enigma2-plugin-softcams-support
+Version: 2-r0.2
+Recommends: update-rc.d
+Section: base
+Architecture: all
+MD5Sum: 92f98787582dba85d29ed0de5119eb98
+Size: 1036
+Filename: enigma2-plugin-softcams-support_2-r0.2_all.ipk
+Description: Start, stop and select softcams.
+Maintainer: PLi team
+Priority: optional
+Source: softcam-support.bb
+Homepage: 
+OE: softcam-support
+License: GPLv2+
 
 
 Package: enigma2-plugin-systemplugins-autoresolution
