@@ -1291,6 +1291,23 @@ OE: enigma2-plugin-settings-ciefp-motor.68e.30w.vod
 License: Proprietary
 
 
+Package: enigma2-plugin-settings-eliesat.motor
+Version: 1.0
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 9f133c8ee0d4c3ff1a28e1f08df20986
+Size: 886
+Filename: enigma2-plugin-settings-eliesat.motor_1.0_all.ipk
+Description: ElieSat E2 Settings File Motor 30.0w to 70.5e
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
 Package: enigma2-plugin-settings-hazemwahba.motor
 Version: 17-11-2022
 Depends: enigma2
