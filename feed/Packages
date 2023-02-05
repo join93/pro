@@ -1259,6 +1259,23 @@ OE: enigma2
 License: none
 
 
+Package: enigma2-plugin-picons-transparent.220x132-osn
+Version: 04-02-2023
+Depends: enigma2
+Section: weblinks
+Architecture: all
+MD5Sum: 62b795de400582ca58dd53c3577c461e
+Size: 746
+Filename: enigma2-plugin-picons-transparent.220x132-osn_04-02-2023_all.ipk
+Description: osn 7.0w (by eliesat)
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
 Package: enigma2-plugin-picons-transparent.220x132
 Version: 04-02-2023
 Depends: enigma2
