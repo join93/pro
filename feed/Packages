@@ -474,13 +474,14 @@ Package: enigma2-plugin-extensions-internet-speedtest
 Version: 1.7
 Section: enigma2
 Architecture: all
-MD5Sum: c3069be14b82b6c97e91b45a1c7f96ed
-Size: 716752
+MD5Sum: 86b527f7684ef178990c096fea0207bc
+Size: 715206
 Filename: enigma2-plugin-extensions-internet-speedtest_1.7_all.ipk
 Description: Speedtest for enigma2 by Madhouse
 Maintainer: madhouse
 Priority: optional
 Source: https://github.com/m4dhouse/Internet-Speedtest
+Homepage: 
 OE: Enigma2 Plugin
 License: open
 
