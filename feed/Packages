@@ -396,12 +396,12 @@ Homepage:
 
 
 Package: enigma2-plugin-extensions-freeserver
-Version: 8.1.5
+Version: 8.1.7
 Section: base
 Architecture: all
-MD5Sum: 6ba68282457ed360417f98800024cbd0
-Size: 2565946
-Filename: enigma2-plugin-extensions-freeserver_8.1.5_all.ipk
+MD5Sum: d356379f897ec2ecd47fe7dd6928ee29
+Size: 2335158
+Filename: enigma2-plugin-extensions-freeserver_8.1.7_all.ipk
 Description: Free Server Online Generator Ncam OScam adddon
 Maintainer: mino60
 Priority: optional
@@ -665,16 +665,17 @@ Source: http://h52tc.com
 
 
 Package: enigma2-plugin-extensions-multiboot-flashonline
-Version: 6.6
+Version: 7.1
 Section: enigma2
 Architecture: all
-MD5Sum: 89cf49c9a3fb88364aab9bcaf8b51dac
-Size: 309314
-Filename: enigma2-plugin-extensions-multiboot-flashonline_6.6_all.ipk
+MD5Sum: b0ed40268e70b071cee2aa0c4f732f4d
+Size: 100914
+Filename: enigma2-plugin-extensions-multiboot-flashonline_7.1_all.ipk
 Description: Multiboot FlashOnline by Madhouse
 Maintainer: madhouse
 Priority: optional
 Source: https://github.com/m4dhouse
+Homepage: 
 OE: Enigma2 Plugin
 
 
@@ -1164,12 +1165,12 @@ Homepage: https://linuxsat-support.com
 
 
 Package: enigma2-plugin-extensions-xstreamity
-Version: 3.90.20230118
+Version: 3.97.20230204
 Section: misc
 Architecture: all
-MD5Sum: c3148f48064566cdeb37f5f78d8a5578
-Size: 2549616
-Filename: enigma2-plugin-extensions-xstreamity_3.90_all.ipk
+MD5Sum: 57563bd07a2489d6b3b49804a0dcaa3b
+Size: 2549896
+Filename: enigma2-plugin-extensions-xstreamity_3.97_all.ipk
 Description: IPTV Xtream Codes/XUI One playlists player by KiddaC
 Maintainer: kiddac
 Priority: optional
