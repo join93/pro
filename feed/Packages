@@ -108,15 +108,15 @@ Priority: optional
 
 
 Package: enigma2-plugin-extensions-arabicsavior
-Version: lv
+Version: 2.0
 Depends: enigma2
-Section: extensions
+Section: weblinks
 Architecture: all
-MD5Sum: 34654fc970dbd4bab254df14794bf010
-Size: 870
-Filename: enigma2-plugin-extensions-arabicsavior_lv_all.ipk
-Description: fixing ararbic language
-Maintainer: unknown
+MD5Sum: 1b073b6f657cc46d6df3e19cb88d964b
+Size: 858
+Filename: enigma2-plugin-extensions-arabicsavior_2.0_all.ipk
+Description: fix arab language in your box
+Maintainer: eliesat
 Priority: optional
 Source: none
 Homepage: unknown
