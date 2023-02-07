@@ -1762,6 +1762,23 @@ Source:
 Homepage: 
 
 
+Package: enigma2-plugin-skins-xe5-ekselance-fhd-px
+Version: mod-h-ahmed
+Depends: enigma2 Skin
+Section: base
+Architecture: all
+MD5Sum: 12be1ab07efb58e75477be38b8b8aa80
+Size: 2651808
+Filename: enigma2-plugin-skins-xe5-ekselance-fhd-px_mod-h-ahmed_all.ipk
+Description: uploaded by eliesat (recommended for openpli py2 images)
+Maintainer: H-Ahmed
+Priority: optional
+Source: 
+Homepage: NOVALER 4K EGYPT
+OE: enigma2
+License: Proprietary
+
+
 Package: enigma2-plugin-softcams-gosatplus-ncam
 Version: 13.5-r0
 Depends: libcurl4
