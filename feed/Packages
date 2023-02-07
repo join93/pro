@@ -1762,14 +1762,14 @@ Source:
 Homepage: 
 
 
-Package: enigma2-plugin-skins-xe5-ekselance-fhd-px
+Package: enigma2-plugin-skins-xe5-ekselance-fhd-xe
 Version: mod-h-ahmed
 Depends: enigma2 Skin
 Section: base
 Architecture: all
-MD5Sum: 12be1ab07efb58e75477be38b8b8aa80
-Size: 2651808
-Filename: enigma2-plugin-skins-xe5-ekselance-fhd-px_mod-h-ahmed_all.ipk
+MD5Sum: 6d02a0e72db05497bc6a808cf65c318a
+Size: 2651796
+Filename: enigma2-plugin-skins-xe5-ekselance-fhd-xe_mod-h-ahmed_all.ipk
 Description: uploaded by eliesat (recommended for openpli py2 images)
 Maintainer: H-Ahmed
 Priority: optional
