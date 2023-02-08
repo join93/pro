@@ -236,8 +236,8 @@ Package: enigma2-plugin-extensions-dreamsatpanel
 Version: 1.5
 Section: extra
 Architecture: all
-MD5Sum: 38e3f6ae50c66403e2d7e08588b31b94
-Size: 914
+MD5Sum: 665e5dfdfe3c00371ba91494ddbe7705
+Size: 932
 Filename: enigma2-plugin-extensions-dreamsatpanel_1.5_all.ipk
 Description: DreamSatPanel All You Need
 Maintainer: LINUXSAT
@@ -247,12 +247,12 @@ Homepage:
 
 
 Package: enigma2-plugin-extensions-e2iplayer
-Version: lv
+Version: linuxsat
 Section: extra
 Architecture: all
-MD5Sum: 51a62ff8c4dacc710e7db4935d02e218
-Size: 816
-Filename: enigma2-plugin-extensions-e2iplayer_lv_all.ipk
+MD5Sum: 0eb5be87c65af246fa78cd6ea131cdc7
+Size: 824
+Filename: enigma2-plugin-extensions-e2iplayer_linuxsat_all.ipk
 Description: e2iplayer
 Maintainer: unlnown
 Priority: optional
@@ -310,12 +310,12 @@ License: Proprietary
 
 
 Package: enigma2-plugin-extensions-epggrabber
-Version: lv
+Version: 22.0
 Section: extra
 Architecture: all
-MD5Sum: ac9c87ca2c4fcf98f4cd0bd4ed873cf7
-Size: 806
-Filename: enigma2-plugin-extensions-epggrabber_lv_all.ipk
+MD5Sum: 5c25df2b5acd9e1a6bf9f90d0562c444
+Size: 814
+Filename: enigma2-plugin-extensions-epggrabber_22.0_all.ipk
 Description: egg grabber
 Maintainer: ziko
 Priority: optional
@@ -1063,6 +1063,23 @@ Source:
 Homepage: 
 
 
+Package: enigma2-plugin-extensions-tssateditor
+Version: 3.3
+Depends: python-core
+Section: base
+Architecture: all
+MD5Sum: ae53ba63943bdbbd89c74aa2cdb9c02b
+Size: 926
+Filename: enigma2-plugin-extensions-tssateditor_3.3_all.ipk
+Description: enigma2-plugin-extensions-ts-sateditor version 1+gitAUTOINC+7a930d688c-r0
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+Priority: optional
+Source: enigma2-plugin-extensions-ts-sateditor.bb
+Homepage: https://github.com/Dima73/enigma2-plugin-extensions-ts-sateditor
+OE: enigma2-plugin-extensions-ts-sateditor
+License: PD
+
+
 Package: enigma2-plugin-extensions-tuneinradio
 Version: 4.0
 Depends: 
@@ -1315,8 +1332,8 @@ Version: 1.0
 Depends: enigma2
 Section: base
 Architecture: all
-MD5Sum: 9f133c8ee0d4c3ff1a28e1f08df20986
-Size: 886
+MD5Sum: 5497aa8099b398e3d2d5cc204f66127e
+Size: 900
 Filename: enigma2-plugin-settings-eliesat.motor_1.0_all.ipk
 Description: ElieSat E2 Settings File Motor 30.0w to 70.5e
 Maintainer: eliesat
@@ -2087,12 +2104,12 @@ Homepage: unknowns
 
 
 Package: enigma2-plugin-systemplugins-newvirtualkeyboard
-Version: lv
+Version: 12.2
 Section: extra
 Architecture: all
-MD5Sum: fe6d6f31969495377d9b1f197157e69c
-Size: 806
-Filename: enigma2-plugin-systemplugins-newvirtualkeyboard_lv_all.ipk
+MD5Sum: 980d2575c47c302db208053e312e655e
+Size: 826
+Filename: enigma2-plugin-systemplugins-newvirtualkeyboard_12.2_all.ipk
 Description: newvirtualkeyboard
 Maintainer: unlnown
 Priority: optional
