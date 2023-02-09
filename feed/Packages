@@ -489,10 +489,10 @@ License: open
 Package: enigma2-plugin-extensions-ipaudio
 Version: 7.4
 Depends: enigma2
-Section: weblinks
+Section: base
 Architecture: all
-MD5Sum: 04a7c3e5d02f4f1f9b31cf73a6f0285b
-Size: 872
+MD5Sum: 15460dbd03ed73b407b22b35522d0ce8
+Size: 2700
 Filename: enigma2-plugin-extensions-ipaudio_7.4_all.ipk
 Description: listen to your favorite commentors
 Maintainer: eliesat
