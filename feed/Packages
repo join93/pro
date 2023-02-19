@@ -78,23 +78,6 @@ OE: enigma2
 License: none
 
 
-Package: enigma2-plugin-extensions-ajpanel-backup-restore-folder
-Version: 7.4.0
-Depends: enigma2
-Section: extra
-Architecture: all
-MD5Sum: 94b506352ef18dea06ed03b211c9284a
-Size: 1070
-Filename: enigma2-plugin-extensions-ajpanel-backup-restore-folder_7.4.0_all.ipk
-Description: ajpanel update file and settings backup folder
-Maintainer: eliesat
-Priority: optional
-Source: none
-Homepage: unknown
-OE: enigma2
-License: none
-
-
 Package: enigma2-plugin-extensions-ajpanel
 Version: v8.5.0
 Depends: enigma2
