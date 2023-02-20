@@ -48,7 +48,6 @@ sleep 10s
    opkg install hlsdl
    opkg install alsa-utils-aplay
    opkg install alsa-plugins
-   opkg install mtd-utils
    opkg install enigma2-plugin-extensions-opkg-tools
    wget https://gitfront.io/r/eliesat/5mUCVmjzCfHR/eliesat/raw/astra-sm/installer.sh -O - | /bin/sh
 
