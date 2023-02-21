@@ -712,11 +712,11 @@ License: none
 
 Package: enigma2-plugin-extensions-mycam-py3
 Version: v7.0
-Depends: python-core
+Depends: enigma2
 Section: base
 Architecture: all
-MD5Sum: 90ed0521a756ebba46e4028a59893954
-Size: 8580
+MD5Sum: ca4d9681557f7a67c3144ddc6b2a61b6
+Size: 8576
 Filename: enigma2-plugin-extensions-mycam-py3_v7.0_all.ipk
 Description: MyCam make it easy
 Maintainer: ostende
