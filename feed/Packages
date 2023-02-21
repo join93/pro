@@ -693,6 +693,40 @@ Source:
 Homepage: 
 
 
+Package: enigma2-plugin-extensions-mycam-py2
+Version: v7.0
+Depends: python-core
+Section: base
+Architecture: all
+MD5Sum: f2b63ba26fbab33676831dca3ced47e4
+Size: 7174
+Filename: enigma2-plugin-extensions-mycam-py2_v7.0_all.ipk
+Description: MyCam make it easy
+Maintainer: ostende
+Priority: optional
+Source: none
+Homepage: http://dreambox4u.com
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-extensions-mycam-py3
+Version: v7.0
+Depends: python-core
+Section: base
+Architecture: all
+MD5Sum: 90ed0521a756ebba46e4028a59893954
+Size: 8580
+Filename: enigma2-plugin-extensions-mycam-py3_v7.0_all.ipk
+Description: MyCam make it easy
+Maintainer: ostende
+Priority: optional
+Source: none
+Homepage: http://dreambox4u.com
+OE: enigma2
+License: none
+
+
 Package: enigma2-plugin-extensions-ncamstatus
 Version: 3.0
 Section: extra
