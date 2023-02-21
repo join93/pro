@@ -503,6 +503,23 @@ OE: Enigma2 Plugin
 License: open
 
 
+Package: enigma2-plugin-extensions-ipaudioplus-py3
+Version: 2.0-r0
+Depends: ffmpeg, gstreamer1.0-plugins-base, gstreamer1.0-plugins-good, libc6 (>= 2.28), python3-core, python3-cryptography, python3-json, python3-requests, enigma2-plugin-systemplugins-serviceapp
+Section: base
+Architecture: all
+MD5Sum: 05d89a09c4ea6411b41b0b9fc22efa87
+Size: 337736
+Filename: enigma2-plugin-extensions-ipaudioplus-py3_2.0-r0_all.ipk
+Description: IPAudio+ - Mix Video/Audio
+Maintainer: Novaler
+Priority: optional
+Source: enigma2-plugin-extensions-ipaudioplus.bb
+Homepage: 
+OE: enigma2-plugin-extensions-ipaudioplus
+License: GPLv2+
+
+
 Package: enigma2-plugin-extensions-ipaudioplus
 Version: 2.0-r0
 Depends: enigma2-plugin-systemplugins-serviceapp, ffmpeg, gstreamer1.0-plugins-base, gstreamer1.0-plugins-good, libc6 (>= 2.28), python-core, python-cryptography, python-json, python-requests
@@ -515,23 +532,6 @@ Description: IPAudio+ - Mix Video/Audio
 Maintainer: Novaler
 Priority: optional
 Source: enigma2-plugin-extensions-ipaudioplus.bb
-OE: enigma2-plugin-extensions-ipaudioplus
-License: GPLv2+
-
-
-Package: enigma2-plugin-extensions-ipaudioplus
-Version: 2.0-r0
-Depends: ffmpeg, gstreamer1.0-plugins-base, gstreamer1.0-plugins-good, libc6 (>= 2.28), python3-core, python3-cryptography, python3-json, python3-requests, enigma2-plugin-systemplugins-serviceapp
-Section: base
-Architecture: all
-MD5Sum: 513ff0e6c33adfe53f50130ba3240367
-Size: 379634
-Filename: enigma2-plugin-extensions-ipaudioplus-python3_2.0-r0_all.ipk
-Description: IPAudio+ - Mix Video/Audio
-Maintainer: Novaler
-Priority: optional
-Source: enigma2-plugin-extensions-ipaudioplus.bb
-Homepage: 
 OE: enigma2-plugin-extensions-ipaudioplus
 License: GPLv2+
 
