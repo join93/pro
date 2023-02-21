@@ -503,6 +503,39 @@ OE: Enigma2 Plugin
 License: open
 
 
+Package: enigma2-plugin-extensions-ipaudioplus
+Version: 2.0-r0
+Depends: enigma2-plugin-systemplugins-serviceapp, ffmpeg, gstreamer1.0-plugins-base, gstreamer1.0-plugins-good, libc6 (>= 2.28), python-core, python-cryptography, python-json, python-requests
+Section: base
+Architecture: cortexa15hf-neon-vfpv4
+MD5Sum: dbdeaf3dee2d8bcbb28d176dcd3348b8
+Size: 590962
+Filename: enigma2-plugin-extensions-ipaudioplus-python2_2.0-r0_all.ipk
+Description: IPAudio+ - Mix Video/Audio
+Maintainer: Novaler
+Priority: optional
+Source: enigma2-plugin-extensions-ipaudioplus.bb
+OE: enigma2-plugin-extensions-ipaudioplus
+License: GPLv2+
+
+
+Package: enigma2-plugin-extensions-ipaudioplus
+Version: 2.0-r0
+Depends: ffmpeg, gstreamer1.0-plugins-base, gstreamer1.0-plugins-good, libc6 (>= 2.28), python3-core, python3-cryptography, python3-json, python3-requests, enigma2-plugin-systemplugins-serviceapp
+Section: base
+Architecture: all
+MD5Sum: 513ff0e6c33adfe53f50130ba3240367
+Size: 379634
+Filename: enigma2-plugin-extensions-ipaudioplus-python3_2.0-r0_all.ipk
+Description: IPAudio+ - Mix Video/Audio
+Maintainer: Novaler
+Priority: optional
+Source: enigma2-plugin-extensions-ipaudioplus.bb
+Homepage: 
+OE: enigma2-plugin-extensions-ipaudioplus
+License: GPLv2+
+
+
 Package: enigma2-plugin-extensions-ipaudio
 Version: 7.4
 Depends: enigma2
@@ -840,23 +873,6 @@ Priority: optional
 Source: enigma2-plugin-extensions-novacam-suptv-activator-python2.bb
 Homepage: 
 OE: enigma2-plugin-extensions-novacam-suptv-activator-python2
-License: GPLv2+
-
-
-Package: enigma2-plugin-extensions-novaleripaudio-python2
-Version: 1.0-r1-Beta
-Depends: enigma2-plugin-systemplugins-serviceapp, ffmpeg, gstreamer1.0-plugins-base, gstreamer1.0-plugins-good, libc6 (>= 2.28), python-core, python-cryptography, python-json, python-requests
-Section: base
-Architecture: all
-MD5Sum: b971ea54363ff46f38274d531ad8ed6d
-Size: 625998
-Filename: enigma2-plugin-extensions-novaleripaudio-python2_1.0-r1-Beta_all.ipk
-Description: IPAudio - Mix Video/Audio
-Maintainer: Novaler
-Priority: optional
-Source: enigma2-plugin-extensions-novaleripaudio-python2.bb
-Homepage: 
-OE: enigma2-plugin-extensions-novaleripaudio-python2
 License: GPLv2+
 
 
