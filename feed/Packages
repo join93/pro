@@ -698,8 +698,8 @@ Version: v7.0
 Depends: python-core
 Section: base
 Architecture: all
-MD5Sum: f2b63ba26fbab33676831dca3ced47e4
-Size: 7174
+MD5Sum: 09b55ab8190e21da1b03f557ebf01a6d
+Size: 7140
 Filename: enigma2-plugin-extensions-mycam-py2_v7.0_all.ipk
 Description: MyCam make it easy
 Maintainer: ostende
