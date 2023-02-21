@@ -1,3 +1,20 @@
+Package: enigma2-plugin-display-lcdskin
+Version: v1.0
+Depends: enigma2
+Section: display
+Architecture: all
+MD5Sum: 599bf7d817ee7ece5ef64a82f74d162e
+Size: 4510
+Filename: enigma2-plugin-display-lcdskin_v1.0_all.ipk
+Description: display skin recommended for vu+ boxes
+Maintainer: openpli
+Priority: optional
+Source: none
+Homepage: display
+OE: enigma2
+License: none
+
+
 Package: enigma2-plugin-drivers-network-usb-mt7601u
 Version: 1.0-r2
 Recommends: firmware-mt7601u, kernel-module-mt7601u
