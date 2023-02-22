@@ -997,14 +997,14 @@ OE: enigma2-plugins
 
 
 Package: enigma2-plugin-extensions-raedquicksignal
-Version: lv
+Version: 16.2
 Section: extra
 Architecture: all
-MD5Sum: c800653df7981b26962abaa802fbf984
-Size: 800
-Filename: enigma2-plugin-extensions-raedquicksignal_lv_all.ipk
-Description: raedquicksignal
-Maintainer: unlnown
+MD5Sum: bbca8b1f543296e321307d8d7b0fb2ee
+Size: 820
+Filename: enigma2-plugin-extensions-raedquicksignal_16.2_all.ipk
+Description: raedquicksignal sat signal explorer
+Maintainer: unknown
 Priority: optional
 Source: unknown
 Homepage: unknowns
