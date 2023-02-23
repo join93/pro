@@ -32,6 +32,7 @@ sleep 10s
    opkg install curl
    opkg install bzip2
    opkg install zip
+   opkg install unrar
    opkg install enigma2-plugin-systemplugins-serviceapp
    opkg install ffmpeg
    opkg install exteplayer3
