@@ -474,16 +474,20 @@ OE: enigma2
 License: none
 
 
-Package: enigma2-plugin-extensions-infobarweather
-Version: 0.10
-Section: misc
+Package: enigma2-plugin-extensions-infobar-weather
+Version: 0.17
+Depends: enigma2
+Section: base
 Architecture: all
-MD5Sum: 20aa2c043d517eb3fd71bace2a06d00e
-Size: 44912
-Filename: enigma2-plugin-extensions-infobarweather_all.ipk
-Description: Show current weather in infobar
+MD5Sum: 30278457bb88fc3fa695201cc3790876
+Size: 36780
+Filename: enigma2-plugin-extensions-infobar-weather_0.17_all.ipk
+Description: Show current weather in infobar (pli-fullnighthd-skin)
 Maintainer: scriptmelvin
 Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
 License: GPLv2
 
 
