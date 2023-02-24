@@ -733,6 +733,23 @@ Homepage:
 OE: Enigma2 Plugin
 
 
+Package: enigma2-plugin-extensions-multiboot-image-selector
+Version: obh
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 17b952066b69a81f50c248e7d541d850
+Size: 752
+Filename: enigma2-plugin-extensions-multiboot-image-selector_obh_all.ipk
+Description: vu+ 4k devices only openblackhole image recommended
+Maintainer: oe-alliance
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
 Package: enigma2-plugin-extensions-multistalker
 Version: 1.5
 Section: misc
