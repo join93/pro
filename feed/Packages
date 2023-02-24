@@ -1400,6 +1400,23 @@ OE: enigma2
 License: none
 
 
+Package: enigma2-plugin-settings-oe-alliance-settings
+Version: feed
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 1bc52e4b86a97d321bc7005857fc8b87
+Size: 910
+Filename: enigma2-plugin-settings-oe-alliance-settings_feed_all.ipk
+Description: add oe-alliance-settings-feed to your feeds
+Maintainer: jungle team
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
 Package: enigma2-plugin-settings-satellites.xml-1
 Version: eliesat
 Depends: enigma2
@@ -1466,21 +1483,6 @@ Source: none
 Homepage: unknown
 OE: enigma2
 License: none
-
-
-Package: enigma2-plugin-settings-vhannibal.motor
-Version: 1.0+git6605+783e046_r0
-Section: base
-Architecture: all
-MD5Sum: 2593a7312a03290843853f897fff8435
-Size: 410974
-Filename: enigma2-plugin-settings-vhannibal.motor_1.0+git6605+783e046_r0_all.ipk
-Description: Vhannibal E2 Settings File motor
-Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-Priority: optional
-Source: https://github.com/oe-alliance/oe-alliance-settings
-OE: enigma2-plugin-settings-vhannibal.motor
-License: Proprietary
 
 
 Package: enigma2-plugin-skins-batman-fhd-px
