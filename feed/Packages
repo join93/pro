@@ -897,6 +897,23 @@ OE: enigma2-plugin-extensions-novalertv
 License: GPLv2+
 
 
+Package: enigma2-plugin-extensions-oe-alliance-settings
+Version: feed
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 7058f0e8d1382387590c7d53801d4404
+Size: 910
+Filename: enigma2-plugin-extensions-oe-alliance-settings_feed_all.ipk
+Description: add oe-alliance-settings-feed to your feeds
+Maintainer: oe-alliance
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
 Package: enigma2-plugin-extensions-omb-enhanced
 Version: 1.3+e2turk-r42
 Depends: enigma2, kernel-module-nandsim, libc6 (>= 2.34), liblzo2-2 (>= 2.10), openmultiboot
@@ -1393,23 +1410,6 @@ Size: 900
 Filename: enigma2-plugin-settings-eliesat.motor_1.0_all.ipk
 Description: ElieSat E2 Settings File Motor 30.0w to 70.5e
 Maintainer: eliesat
-Priority: optional
-Source: none
-Homepage: unknown
-OE: enigma2
-License: none
-
-
-Package: enigma2-plugin-settings-oe-alliance-settings
-Version: feed
-Depends: enigma2
-Section: base
-Architecture: all
-MD5Sum: 1bc52e4b86a97d321bc7005857fc8b87
-Size: 910
-Filename: enigma2-plugin-settings-oe-alliance-settings_feed_all.ipk
-Description: add oe-alliance-settings-feed to your feeds
-Maintainer: jungle team
 Priority: optional
 Source: none
 Homepage: unknown
