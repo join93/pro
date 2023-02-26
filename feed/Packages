@@ -616,12 +616,12 @@ License: none
 
 
 Package: enigma2-plugin-extensions-keyadder
-Version: 6.4
+Version: 6.7
 Section: extra
 Architecture: all
-MD5Sum: c4da246abce2fab6c89102a836162350
+MD5Sum: 32cf3921ba0a77ca0135b8d8524f29c9
 Size: 810
-Filename: enigma2-plugin-extensions-keyadder_6.4_all.ipk
+Filename: enigma2-plugin-extensions-keyadder_6.7_all.ipk
 Description: add bisskey to your softcam file
 Maintainer: raed
 Priority: optional
