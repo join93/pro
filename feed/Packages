@@ -96,13 +96,13 @@ License: none
 
 
 Package: enigma2-plugin-extensions-ajpanel
-Version: v8.5.0
+Version: v8.6.0
 Depends: enigma2
 Section: base
 Architecture: all
-MD5Sum: 1fdbd2a8efa7811b5fff8f2b40000c4d
-Size: 796
-Filename: enigma2-plugin-extensions-ajpanel_v8.5.0_all.ipk
+MD5Sum: c49f0ce4bac413ea13fc08084823aa86
+Size: 806
+Filename: enigma2-plugin-extensions-ajpanel_v8.6.0_all.ipk
 Description: Enigma2 Tools
 Maintainer: AMA-Jamry
 Priority: optional
