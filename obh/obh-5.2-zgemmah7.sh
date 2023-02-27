@@ -17,7 +17,7 @@ set -e
 
 rm -rf openbh-5.2-zgemmah7s_multi.zip
 
-wget -c  openbh-5.2-zgemmah7s_multi.zip https://images.openbh.net/latest/5.2/zgemmah7
+wget -c  openbh-5.2-zgemmah7s_multi.zip "https://images.openbh.net/latest/5.2/zgemmah7"
 set +e
 
 if [  -d "/hdd/ImagesUpload" ]; then
