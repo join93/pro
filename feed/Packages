@@ -630,13 +630,13 @@ Homepage: unknown
 
 
 Package: enigma2-plugin-extensions-levi45multicammanager
-Version: 9.6-r8
+Version: 9.6-r14
 Depends: enigma2
 Section: misc
 Architecture: all
-MD5Sum: 34aafbb7c413b501d9e471c0958f9828
-Size: 759636
-Filename: enigma2-plugin-extensions-levi45multicammanager_9.6-r8_all.ipk
+MD5Sum: 35f8d1cdf5391ca4606d9f600420a763
+Size: 760282
+Filename: enigma2-plugin-extensions-levi45multicammanager_9.6-r14_all.ipk
 Description: Addon/Multicam Manager by Levi45
 Maintainer: levi45
 Priority: optional
@@ -1287,12 +1287,12 @@ Homepage: https://linuxsat-support.com
 
 
 Package: enigma2-plugin-extensions-xstreamity
-Version: 3.97.20230204
+Version: 4.00.20230229
 Section: misc
 Architecture: all
-MD5Sum: 57563bd07a2489d6b3b49804a0dcaa3b
-Size: 2549896
-Filename: enigma2-plugin-extensions-xstreamity_3.97_all.ipk
+MD5Sum: 054d4733ad84a5a65956369ebc49a740
+Size: 3297750
+Filename: enigma2-plugin-extensions-xstreamity_4.00_all.ipk
 Description: IPTV Xtream Codes/XUI One playlists player by KiddaC
 Maintainer: kiddac
 Priority: optional
