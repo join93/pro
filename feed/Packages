@@ -96,13 +96,13 @@ License: none
 
 
 Package: enigma2-plugin-extensions-ajpanel
-Version: v8.6.0
+Version: v8.6.3
 Depends: enigma2
 Section: base
 Architecture: all
-MD5Sum: c49f0ce4bac413ea13fc08084823aa86
+MD5Sum: afb7a143431903bb0c6494ea006f6845
 Size: 806
-Filename: enigma2-plugin-extensions-ajpanel_v8.6.0_all.ipk
+Filename: enigma2-plugin-extensions-ajpanel_v8.6.3_all.ipk
 Description: Enigma2 Tools
 Maintainer: AMA-Jamry
 Priority: optional
@@ -2279,6 +2279,23 @@ MD5Sum: 5960e9912238614420bbfe18e9f8db17
 Size: 804
 Filename: enigma2-plugin-weblinks-feed-jungle_hide-show_all.ipk
 Description: hide and show jungle feed (by eliesat)
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-weblinks-openpli
+Version: 8.3
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 99167fc96d81b549ba8dd037c3092c8c
+Size: 736
+Filename: enigma2-plugin-weblinks-openpli_8.3_all.ipk
+Description: Download openpli 8.3 image to media/hdd/images
 Maintainer: eliesat
 Priority: optional
 Source: none
