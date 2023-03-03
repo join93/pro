@@ -5,7 +5,7 @@ date='20230226'
 
 # check media hdd #
 if [  -d "/hdd/" ]; then
-echo 'Downloading '$image'- '$version' Image please wait...'
+echo 'Downloading '$image'-'$version' Image please wait...'
 sleep 10s
 
 #create images folder #
@@ -88,15 +88,15 @@ wget -O openpli-8.3-zgemmah9combo_emmc.zip http://downloads.openpli.org/emmc/h9c
 elif [[ "$BOXNAME" == "h9combose" ]];then
 wget -O openpli-8.3-zgemmah9combose_emmc.zip http://downloads.openpli.org/emmc/h9combose
 
+elif [[ "$BOXNAME" == "h11" ]];then
+wget -O openpli-8.3-zgemmah11_emmc.zip http://downloads.openpli.org/emmc/h11
+
+
  
 
 set +e
 
 else
-
-#wget -O openpli-8.3-zgemmah9combose_emmc.zip http://downloads.openpli.org/emmc/hd51
-
-#wget https://downloads.openpli.org/builds/hd51/openpli-8.3-release-hd51-20230226_multiboot.zip
 
 
 echo ' your device is not yet supported '
@@ -107,6 +107,7 @@ zgemma h9s 4k
 zgemma h9s se 4k
 zgemma h9 twin 4k
 zgemma h9 twin se 4k
+zgemma h11s 4k
 gigablue ue 4k
 gigablue trio 4k
 gigablue quad 4k
