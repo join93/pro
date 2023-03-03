@@ -2287,14 +2287,82 @@ OE: enigma2
 License: none
 
 
-Package: enigma2-plugin-weblinks-openpli
-Version: 8.3
+Package: enigma2-plugin-weblinks-openblackhole-4.4
+Version: 2.7.18
 Depends: enigma2
 Section: base
 Architecture: all
-MD5Sum: 99167fc96d81b549ba8dd037c3092c8c
-Size: 736
-Filename: enigma2-plugin-weblinks-openpli_8.3_all.ipk
+MD5Sum: f2719820b85cef24dee5d75041171294
+Size: 742
+Filename: enigma2-plugin-weblinks-openblackhole-4.4_2.7.18_all.ipk
+Description: Download openblackhole image to media/hdd/images
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-weblinks-openblackhole-5.0
+Version: 3.9.7
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 403d1e8149e8b82fb9db0e9ca8915cf7
+Size: 742
+Filename: enigma2-plugin-weblinks-openblackhole-5.0_3.9.7_all.ipk
+Description: Download openblackhole image to media/hdd/images
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-weblinks-openblackhole-5.1
+Version: 3.10.4
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 195cdd6029ebb9f04d548937094e96a8
+Size: 740
+Filename: enigma2-plugin-weblinks-openblackhole-5.1_3.10.4_all.ipk
+Description: Download openblackhole image to media/hdd/images
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-weblinks-openblackhole-5.2
+Version: 3.11.0
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 83f73210020e58615b3373b05e69f601
+Size: 742
+Filename: enigma2-plugin-weblinks-openblackhole-5.2_3.11.0_all.ipk
+Description: Download openblackhole image to media/hdd/images
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-weblinks-openpli-8.3
+Version: 2.7.18
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: a9a4057431ce36e5fa7c77bf3573c354
+Size: 740
+Filename: enigma2-plugin-weblinks-openpli-8.3_2.7.18_all.ipk
 Description: Download openpli 8.3 image to media/hdd/images
 Maintainer: eliesat
 Priority: optional
