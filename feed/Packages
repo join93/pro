@@ -2287,6 +2287,74 @@ OE: enigma2
 License: none
 
 
+Package: enigma2-plugin-weblinks-openatv-6.4
+Version: 2.7.18
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 96e42ba47eed73674a434061bf7da974
+Size: 734
+Filename: enigma2-plugin-weblinks-openatv-6.4_2.7.18_all.ipk
+Description: Download openatv image to media/hdd/images
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-weblinks-openatv-7.0
+Version: 3.9.7
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 778b82f17aa7d0b9615dd40bda58e0d7
+Size: 738
+Filename: enigma2-plugin-weblinks-openatv-7.0_3.9.7_all.ipk
+Description: Download openatv image to media/hdd/images
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-weblinks-openatv-7.1
+Version: 3.10.4
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 80bad2e99c79321adbec3b65792b0c2e
+Size: 736
+Filename: enigma2-plugin-weblinks-openatv-7.1_3.10.4_all.ipk
+Description: Download openatv image to media/hdd/images
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-weblinks-openatv-7.2
+Version: 3.11.0
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: 0459230e9972129519257d91995b8724
+Size: 738
+Filename: enigma2-plugin-weblinks-openatv-7.2_3.11.0_all.ipk
+Description: Download openatv image to media/hdd/images
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
 Package: enigma2-plugin-weblinks-openblackhole-4.4
 Version: 2.7.18
 Depends: enigma2
