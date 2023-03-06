@@ -1,7 +1,7 @@
 # config #
 image='openpli'
 version='8.3'
-date='20230226'
+date='20230305'
 
 # check media hdd #
 if [  -d "/hdd/" ]; then
