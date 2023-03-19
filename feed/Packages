@@ -1,3 +1,224 @@
+Package: enigma2-plugin-display-lcdskin-10
+Version: v1.0
+Depends: enigma2
+Section: display
+Architecture: all
+MD5Sum: 777d4579361ee6452527c91835258a20
+Size: 23030
+Filename: enigma2-plugin-display-lcdskin-10_v1.0_all.ipk
+Description: display skin recommended for vu+ boxes
+Maintainer: openpli
+Priority: optional
+Source: none
+Homepage: display
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-display-lcdskin-11
+Version: v1.0
+Depends: enigma2
+Section: display
+Architecture: all
+MD5Sum: a48d5a2ae98ae799cf1c013b53381268
+Size: 72208
+Filename: enigma2-plugin-display-lcdskin-11_v1.0_all.ipk
+Description: display skin recommended for vu+ boxes
+Maintainer: oe
+Priority: optional
+Source: none
+Homepage: display
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-display-lcdskin-12
+Version: v1.0
+Depends: enigma2
+Section: display
+Architecture: all
+MD5Sum: 7c76f7b1654cb223f684a1d0ee65a915
+Size: 56274
+Filename: enigma2-plugin-display-lcdskin-12_v1.0_all.ipk
+Description: display skin recommended for vu+ boxes
+Maintainer: oe
+Priority: optional
+Source: none
+Homepage: display
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-display-lcdskin-13
+Version: v1.0
+Depends: enigma2
+Section: display
+Architecture: all
+MD5Sum: 1c3e28c84a037726364b205a677135eb
+Size: 477284
+Filename: enigma2-plugin-display-lcdskin-13_v1.0_all.ipk
+Description: display skin recommended for vu+ boxes
+Maintainer: oe
+Priority: optional
+Source: none
+Homepage: display
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-display-lcdskin-1
+Version: v1.0
+Depends: enigma2
+Section: display
+Architecture: all
+MD5Sum: 4276e7e44150851b427a398ada7a8bc9
+Size: 16258
+Filename: enigma2-plugin-display-lcdskin-1_v1.0_all.ipk
+Description: display skin recommended for vu+ boxes
+Maintainer: oe
+Priority: optional
+Source: none
+Homepage: display
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-display-lcdskin-2
+Version: v1.0
+Depends: enigma2
+Section: display
+Architecture: all
+MD5Sum: 21b7d8ec21700db11062602aaf6d29fa
+Size: 16000
+Filename: enigma2-plugin-display-lcdskin-2_v1.0_all.ipk
+Description: display skin recommended for vu+ boxes
+Maintainer: oe
+Priority: optional
+Source: none
+Homepage: display
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-display-lcdskin-3
+Version: v1.0
+Depends: enigma2
+Section: display
+Architecture: all
+MD5Sum: 2e73150f51188ea91731f274de8c8318
+Size: 19218
+Filename: enigma2-plugin-display-lcdskin-3_v1.0_all.ipk
+Description: display skin recommended for vu+ boxes
+Maintainer: oe
+Priority: optional
+Source: none
+Homepage: display
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-display-lcdskin-4
+Version: v1.0
+Depends: enigma2
+Section: display
+Architecture: all
+MD5Sum: 26ea5c9c75f4570c89491a3d02262d8c
+Size: 15422
+Filename: enigma2-plugin-display-lcdskin-4_v1.0_all.ipk
+Description: display skin recommended for vu+ boxes
+Maintainer: oe
+Priority: optional
+Source: none
+Homepage: display
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-display-lcdskin-5
+Version: v1.0
+Depends: enigma2
+Section: display
+Architecture: all
+MD5Sum: a0c6990ca6e9b1f414846f216afa79a9
+Size: 28306
+Filename: enigma2-plugin-display-lcdskin-5_v1.0_all.ipk
+Description: display skin recommended for vu+ boxes
+Maintainer: oe
+Priority: optional
+Source: none
+Homepage: display
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-display-lcdskin-6
+Version: v1.0
+Depends: enigma2
+Section: display
+Architecture: all
+MD5Sum: eebe79b6667691f58905c181c7427c50
+Size: 11742
+Filename: enigma2-plugin-display-lcdskin-6_v1.0_all.ipk
+Description: display skin recommended for vu+ boxes
+Maintainer: oe
+Priority: optional
+Source: none
+Homepage: display
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-display-lcdskin-7
+Version: v1.0
+Depends: enigma2
+Section: display
+Architecture: all
+MD5Sum: 295b2cfa99c6ee3254d0b14cb3602f70
+Size: 16406
+Filename: enigma2-plugin-display-lcdskin-7_v1.0_all.ipk
+Description: display skin recommended for vu+ boxes
+Maintainer: oe
+Priority: optional
+Source: none
+Homepage: display
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-display-lcdskin-8
+Version: v1.0
+Depends: enigma2
+Section: display
+Architecture: all
+MD5Sum: 8c47c43f025a032776bc179352a3f029
+Size: 18682
+Filename: enigma2-plugin-display-lcdskin-8_v1.0_all.ipk
+Description: display skin recommended for vu+ boxes
+Maintainer: oe
+Priority: optional
+Source: none
+Homepage: display
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-display-lcdskin-9
+Version: v1.0
+Depends: enigma2
+Section: display
+Architecture: all
+MD5Sum: 5c96a9706b688afa3f54ca0119e5531a
+Size: 26410
+Filename: enigma2-plugin-display-lcdskin-9_v1.0_all.ipk
+Description: display skin recommended for vu+ boxes
+Maintainer: oe
+Priority: optional
+Source: none
+Homepage: display
+OE: enigma2
+License: none
+
+
 Package: enigma2-plugin-display-lcdskin
 Version: v1.0
 Depends: enigma2
@@ -96,13 +317,13 @@ License: none
 
 
 Package: enigma2-plugin-extensions-ajpanel
-Version: v8.6.3
+Version: v8.8.0
 Depends: enigma2
 Section: base
 Architecture: all
-MD5Sum: afb7a143431903bb0c6494ea006f6845
+MD5Sum: 76b549b6befbb6f4a63a1b1e8739b9a2
 Size: 806
-Filename: enigma2-plugin-extensions-ajpanel_v8.6.3_all.ipk
+Filename: enigma2-plugin-extensions-ajpanel_v8.8.0_all.ipk
 Description: Enigma2 Tools
 Maintainer: AMA-Jamry
 Priority: optional
@@ -129,8 +350,8 @@ Version: 2.1
 Depends: enigma2
 Section: weblinks
 Architecture: all
-MD5Sum: 05ec42e49b5bc24c79a6791a4ce80b8b
-Size: 958
+MD5Sum: dcfe8fef7bbc379828cb31aa49bae47d
+Size: 858
 Filename: enigma2-plugin-extensions-arabicsavior_2.1_all.ipk
 Description: fix arab language in your box
 Maintainer: eliesat
@@ -2070,6 +2291,22 @@ Source: enigma2-plugin-systemplugins-devicemanager.bb
 Homepage: https://github.com/Dima73/enigma2-plugin-systemplugins-devicemanager
 OE: enigma2-plugin-systemplugins-devicemanager
 License: GPLv2
+
+
+Package: enigma2-plugin-systemplugins-extended-number-zap
+Version: v1.22
+Section: base
+Architecture: all
+MD5Sum: 279ad0711c1664974a19eea72fc13c81
+Size: 46028
+Filename: enigma2-plugin-systemplugins-extended-number-zap_v1.22_all.ipk
+Description: number hotkey & mini infobar
+Maintainer: Dima73
+Priority: optional
+Source: none
+Homepage: none
+OE: enigma2
+License: none
 
 
 Package: enigma2-plugin-systemplugins-mountmanager
