@@ -1,3 +1,20 @@
+Package: enigma2-plugin-display-bootlogos-ramadan
+Version: v1.0
+Depends: enigma2
+Section: extra
+Architecture: all
+MD5Sum: f2db8b7ffc00c4919b891b60c65b1672
+Size: 852
+Filename: enigma2-plugin-display-bootlogos-ramadan_v1.0_all.ipk
+Description: auto swapping 34 ramadan bootlogos
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
 Package: enigma2-plugin-display-lcdskin-10
 Version: v1.0
 Depends: enigma2
